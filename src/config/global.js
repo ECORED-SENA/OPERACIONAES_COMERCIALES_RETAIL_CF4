@@ -23,116 +23,38 @@ export default {
         nombreRuta: 'tema1',
         icono: 'far fa-file-alt',
         numero: '1',
-        titulo: 'Componentes',
+        titulo: 'Publicidad en el punto de venta',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '1.1',
-            titulo: 'Encabezados',
-            hash: 'encabezados',
+            titulo: 'Objetivos y funciones',
+            hash: 't_1_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Párrafos',
-            hash: 'parrafos',
+            titulo: 'Características de la publicidad en el punto de venta',
+            hash: 't_1_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.3',
-            titulo: 'Botones',
-            hash: 'botones',
+            titulo: 'Promoción',
+            hash: 't_1_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.4',
-            titulo: 'Listas',
-            hash: 'listas',
+            titulo: 'Evento promocional',
+            hash: 't_1_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '1.5',
-            titulo: 'Tablas',
-            hash: 'tablas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.6',
-            titulo: 'Imagen',
-            hash: 'imagen',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.7',
-            titulo: 'Imagen Infográfica',
-            hash: 'imagen_infografica',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.8',
-            titulo: 'Video',
-            hash: 'video',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.9',
-            titulo: 'Bloques de texto destacado',
-            hash: 'texto_destacado',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.10',
-            titulo: 'Sliders',
-            hash: 'sliders',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.11',
-            titulo: 'Acordiones',
-            hash: 'acordiones',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.12',
-            titulo: 'Pestañas o Tabs',
-            hash: 'tabs',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.13',
-            titulo: 'Líneas de tiempo',
-            hash: 'lineas_tiempo',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.14',
-            titulo: 'Pasos',
-            hash: 'pasos',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.15',
-            titulo: 'Llamados a la acción',
-            hash: 'llamados_accion',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.16',
-            titulo: 'Tarjetas',
-            hash: 'tarjetas',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.17',
-            titulo: 'Tarjetas con número',
-            hash: 'tarjeta_numero',
-          },
-          {
-            icono: 'far fa-file-alt',
-            numero: '1.18',
-            titulo: 'Modal',
-            hash: 'modal',
+            titulo: 'El <i>stand</i>',
+            hash: 't_1_5',
           },
         ],
       },
@@ -140,44 +62,50 @@ export default {
         nombreRuta: 'tema2',
         icono: 'far fa-file-alt',
         numero: '2',
-        titulo: 'Producción Audiovisual',
+        titulo: 'Productos y servicios',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '2.1',
-            titulo: 'Infografía Animada',
+            titulo: 'Portafolio de productos',
             hash: 't_2_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.2',
-            titulo: 'Video Motion',
+            titulo: 'Los servicios como valor agregado',
             hash: 't_2_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.3',
-            titulo: 'Motion + Presentador',
+            titulo: 'La estrategia comercial de ventas',
             hash: 't_2_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.4',
-            titulo: 'Animación 2D',
+            titulo: 'Las ventas',
             hash: 't_2_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.5',
-            titulo: 'Video interactivo',
+            titulo: 'Buenas prácticas de manufactura',
             hash: 't_2_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '2.6',
-            titulo: 'Infografías',
+            titulo: 'Las demostraciones',
             hash: 't_2_6',
+          },
+          {
+            icono: 'far fa-file-alt',
+            numero: '2.7',
+            titulo: 'Las degustaciones',
+            hash: 't_2_7',
           },
         ],
       },
@@ -185,56 +113,55 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: 'Fundamentación Textil',
+        titulo: 'La comunicación comercial',
         desarrolloContenidos: true,
         subMenu: [
           {
             icono: 'far fa-file-alt',
             numero: '3.1',
-            titulo:
-              'Clasificación y conceptualización de las fibras naturales, químicas (artificiales y sintéticas).',
+            titulo: 'Niveles de la comunicación comercial',
             hash: 't_3_1',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.2',
-            titulo: 'Identificación fibras por combustión',
+            titulo: 'El asesor comercial',
             hash: 't_3_2',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.3',
-            titulo: 'Clasificación de los hilos',
+            titulo: 'Medios de comunicación impresos',
             hash: 't_3_3',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.4',
-            titulo: 'Clasificación de tejidos',
+            titulo: 'Muestra comercial',
             hash: 't_3_4',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.5',
-            titulo: 'Caracterización de los tejidos',
+            titulo: 'Material publicitario en el punto de venta',
             hash: 't_3_5',
           },
           {
             icono: 'far fa-file-alt',
             numero: '3.6',
-            titulo: 'Procesos textiles',
+            titulo: 'Omnicanalidad',
             hash: 't_3_6',
           },
         ],
       },
     ],
     subMenu: [
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      // {
+      //   nombreRuta: 'actividad',
+      //   icono: 'far fa-question-circle',
+      //   titulo: 'Actividad didáctica',
+      //   desarrolloContenidos: true,
+      // },
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
@@ -265,141 +192,146 @@ export default {
   referencias: [
     {
       referencia:
-        'Zlackman, C. (2012). 100 años de moda. Sistema de Bibliotecas SENA: ',
+        'Amagua, R., Coronel, M., Quintana, T., y Reyes, C. (2016). Guía BPM. ',
+      link: 'https://www.academia.edu/36734745/GU%C3%8DA_BPM',
+    },
+    {
+      referencia: 'Burin, D. (2017). Publicidad y promoción. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/primo-explore/fulldisplay?docid=sena_aleph000060086&vid=SENA&search_scope=sena_completo&tab=sena_completo&lang=es_ES&context=L',
+        'http://repositorio.iica.int/bitstream/handle/11324/3153/BVE17089159e.pdf;jsessionid=203714C3464FFE6D583764D067D04602?sequence=15',
     },
     {
       referencia:
-        'Castellanos, O., Fumeque A., y Ramirez D. (2011). Análisis de tendencias: de la información hacia la innovación. Universidad Nacional de Colombia. Sistema de Bibliotecas SENA: ',
+        'Chávez, L. M. (2016). Marketing en productos y servicios. IDI Instituto de Investigación - Escuela Superior Politécnica de Chimborazo.',
+      link: '',
+    },
+    {
+      referencia:
+        'Costa, J. (2007). Señalética corporativa. Costa Punto Com Editor (CPC).',
+      link: '',
+    },
+    {
+      referencia: 'Florido, M. (2021). MK@ Marketing and web. ',
+      link: 'https://www.marketingandweb.es/marketing/muestras-gratis/',
+    },
+    {
+      referencia:
+        'García, M. J. (2015).  Publicidad en el punto de venta. IC Editorial.',
+      link: '',
+    },
+    {
+      referencia:
+        'Navarro, M. E. (2012). Técnicas de venta. Red Tercer Milenio S.C.',
+      link: '',
+    },
+    {
+      referencia:
+        'Romero, M. J., Maldonado, C., y Núñez, L. (2021). El nuevo paradigma de la omnicanalidad.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000007947',
+        'https://www.minsait.com/sites/default/files/newsroom_documents/elnuevoparadigmadelaomnicanalidad.pdf',
+    },
+    {
+      referencia: 'Silva, D. D. (2020). Estrategia comercial.',
+      link: 'https://www.zendesk.com.mx/blog/estrategia-comercial/',
     },
     {
       referencia:
-        'Harpersbazaar. (2019). La ropa que eliges afecta a tu estado de ánimo y cerebro, según expertos. En arpersbazaar.mx.',
-    },
-    {
-      referencia:
-        'Lafuente M., Navarro J., y Navarro J. (2005). Ilustración de moda. Sistema de Bibliotecas SENA',
+        'Universidad América Latina - UAL. (2021). Promoción de ventas.',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000025549',
+        'http://ual.dyndns.org/biblioteca/Promocion_de_Ventas/Pdf/Unidad_20.pdf',
     },
     {
       referencia:
-        'Laver, J.,  Albizua, H., y Fortea, B. (1990). Breve historia del traje y la moda. Sistema de Bibliotecas SENA. ',
+        'Vigaray, M. D. (2005). Comercialización y retailing: distribución comercial aplicada. Pearson Educación.',
+      link: '',
     },
     {
       referencia:
-        'Navarro, J.,  y Lafuente, M. (2010). Ilustración de moda: dibujo plano. Sistema de Bibliotecas SENA:',
+        'Wetto, M. (20 de Septiembre de 2017). Funciones del asesor comercial. Obtenido de Lifeder: ',
+      link: 'https://www.lifeder.com/funciones-asesor-comercial/',
+    },
+    {
+      referencia: 'Wolters Kluwer N.V. (2021). Comunicación comercial. ',
       link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/q6j6k0/sena_aleph000023241',
+        'https://guiasjuridicas.wolterskluwer.es/Content/Documento.aspx?params=H4sIAAAAAAAEAMtMSbF1jTAAASMjc0sLtbLUouLM_DxbIwMDS0NDA1OQQGZapUt-ckhlQaptWmJOcSoA2UBwSDUAAAA=WKE',
     },
     {
       referencia:
-        'Áciedad Americana de Ensayos y Materiales (ASTM). (2003). Textiles. Editorial Staff. [Book]. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000051551',
+        'Yate, A. (2021). Material P.O.P. Publicidad en punto de venta. Ecoe Ediciones.',
+      link: '',
     },
     {
-      referencia:
-        'Szkutnicka, B., Cuenca, C., Koyama, A. (2010). El dibujo técnico de moda paso a paso. Sistema de Bibliotecas SENA.',
-      link:
-        'https://sena-primo.hosted.exlibrisgroup.com/permalink/f/1j5choe/sena_aleph000057728',
+      referencia: 'Zambrano, F. (2021). Marketing ptomoción.',
+      link: 'https://es.calameo.com/books/006559089cc12d9b80dfb',
     },
   ],
   glosario: [
     {
-      termino: 'MoodBoard',
+      termino: 'BPM',
       significado:
-        'su traducción literal es mapa de inspiración y aunque su uso está muy asociado al ámbito de la decoración de interiores o la moda, <br/>realmente se utiliza en entornos creativos muy diversos, desde el diseño de productos o servicios al audiovisual o el diseño gráfico.',
+        'sigla para el término “Buenas Prácticas de Manufactura”. Hace referencia a la manera en que se deben administrar los productos para una buena higiene, desde su manipulación hasta su preparación, elaboración, envasado, almacenamiento, transporte y distribución, para que finalmente pueda ser consumido.',
     },
     {
-      termino: 'Suftware',
-      terminoHtml: '<em>Suftware</em>',
+      termino: 'Degustación',
       significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'pruebas que se le regalan a los clientes dentro de un establecimiento de uno o varios productos para que lo(s) conozcan, lo(s) experimenten en carne propia y luego puedan tomar una decisión de compra.',
     },
     {
-      termino: 'Pirognóstico',
+      termino: 'Demostración',
       significado:
-        'ensayo sin componentes reactivos, quiere decir, reconocimiento de los componentes, mediante la aplicación adecuada del fuego.',
+        'forma en que se promociona un producto, poniéndolo a prueba con los clientes dentro de un establecimiento para que puedan percibir su funcionamiento.',
     },
     {
-      termino: 'Áectores',
-      terminoHtml: '<em>Áectores</em>',
+      termino: 'Omnicanalidad',
       significado:
-        'en software de diseño, son líneas que se crean y permiten, expandir, modificar, al tamaño que sea sin pixelarse porque se unen por coordenadas matemáticas del programa y no se generan por números fijos.',
+        'integración de los medios o canales que existen en un mercado y la capacidad que tiene la empresa para comunicar, vender y fidelizar a sus clientes usándolos a su favor. El primer contacto con el cliente puede continuar en otro canal diferente sin perder calidad ni coherencia en la comunicación. ',
     },
     {
-      termino: 'Moda',
+      termino: 'PLV',
       significado:
-        'hábito repetitivo que identifica a una persona, una especie de presión social, que debe consumir, utilizar o hacer.',
+        'sigla de “Publicidad en el Punto de Venta”. Es lo mismo que el término PPV (Publicidad en el Punto de Venta). ',
     },
     {
-      termino: 'DIseño',
+      termino: 'Promoción',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'acciones publicitarias que sirven para sensibilizar a los clientes con el objetivo de que tomen decisiones de compra, para mejorar las ventas y crear fidelización de marca.',
     },
     {
-      termino: 'Diseña',
+      termino: 'Promoción de venta',
       significado:
-        'actividad creativa orientada a soluciones idóneas a ciertas problemáticas.',
+        'acciones publicitarias y de mercadeo que incentivan a los clientes a tomar una decisión de compra en corto plazo, a través de técnicas promocionales como rebajas en el precio de un producto o servicio, descuentos, ofertas, cupones o el tradicional 2x1, entre otras.',
     },
     {
-      termino: 'Tipología',
+      termino: 'Sampling',
+      terminoHtml: '<i>Sampling</i>',
       significado:
-        'estudio de los tipos o modelos que se usan para clasificar en diversas ciencias o disciplinas.',
+        'distribución de muestras de producto gratis que se regalan a los clientes con el fin de llamar su atención y captarlos.',
     },
     {
-      termino: 'Bidimensional',
+      termino: 'Stand',
+      terminoHtml: '<i>Stand</i>',
       significado:
-        'que se representa según su altura y su anchura y no su profundidad.',
-    },
-    {
-      termino: 'Interés Inferior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interseccionalidad',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
-    },
-    {
-      termino: 'Interés superior del menor',
-      significado:
-        'término informático que hace referencia a un programa o conjunto de programas de cómputo, así como datos, procedimientos y pautas que permiten realizar distintas tareas en un sistema informático.',
+        'mueble que ocupa un espacio, principalmente en el interior de una exposición o una feria, en la que una marca puede exponer los productos y servicios.',
     },
   ],
   complementario: [
     {
       texto:
-        'BIC., (2015). “2 minutos para entender el desarrollo sostenible – Spanish”',
-      tipo: 'Video',
-      link: 'https://www.google.com/',
+        'Isaza, O., J. (2017). Análisis del impacto del material P. O. P. En los puntos de Venta de los distribuidores de los productos de la empresa Compañía de empaques. Universidad EAFIT. ',
+      tipo: 'Trabajo de grado',
+      descarga: '/downloads/documento_1.pdf',
     },
     {
       texto:
-        'Arnold, M. y Osorio, F., (1998). Introducción a los conceptos básicos de la Teoría general de sistemas. Cinta moebio 3: 40-49',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
+        'Guzmán, L. (2020). ¿Qué son las BPM? Conoce todo sobre las buenas prácticas de manufactura. [Video]. YouTube. ',
+      tipo: 'Video',
+      link: 'https://www.youtube.com/watch?v=FbVh7DK03vk',
     },
     {
       texto:
-        'Balboa, C. y Dominguez, M. (2014). Economía circular como marco para el ecodiseño: el modelo ECO-3. Informador Técnico (Colombia) Volumen 78, No. 1. Pág. 52-90.',
-      tipo: 'Artículo científico',
-      link: 'https://www.google.com/',
-    },
-    {
-      texto: 'Economía de Rosquilla. (s.f.).',
-      tipo: 'Página web',
-      descarga: '/downloads/prueba.pdf',
-    },
-    {
-      texto: '2 minutos para entender el desarrollo sostenible – Spanish',
+        'Navarro, E. (2016). E-commerce: ¿Qué es la omnicanalidad? [Video]. YouTube. ',
       tipo: 'Video',
-      link: 'https://www.google.com/',
+      link: 'https://www.youtube.com/watch?v=IpPxFTJrZps',
     },
   ],
   creditos: {
@@ -412,10 +344,25 @@ export default {
     ],
     contenidoInstruccional: [
       {
-        nombre: 'Rafael Neftalí Lizcano Reyes',
-        cargo: 'Asesor metodológico y pedagógico',
+        nombre: 'Samuel Pinilla Hurtado',
+        cargo: 'Contratista',
+        centro: 'Centro de Comercio – Regional Antioquia',
+      },
+      {
+        nombre: 'Zvi Daniel Grosman',
+        cargo: 'Diseñador Instruccional',
+        centro: 'Centro Agropecuario “La Granja” – Regional Tolima',
+      },
+      {
+        nombre: 'Carolina Coca Salazar',
+        cargo: 'Revisora metodológica y pedagógica',
+        centro: 'Centro de Diseño y Metrología - Regional Distrito Capital ',
+      },
+      {
+        nombre: 'José Gabriel Ortiz Abella',
+        cargo: 'Corrector de estilo',
         centro:
-          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+          'Centro para la Industria de la Comunicación Gráfica - Regional Distrito Capital',
       },
     ],
     desarrolloProducto: [
@@ -431,25 +378,31 @@ export default {
         centro: 'Centro de Comercio y Servicios Regional Tolima',
       },
       {
-        nombre: ['Nombre 1', 'Nombre 2'],
+        nombre: ['Yuly Andrea Rey Quiñonez'],
         cargo: 'Diseño web',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
-        cargo: 'Desarrollo Front-End',
+        nombre: 'Camilo Andres Bolaño Rey',
+        cargo: 'Desarrollo front-end',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: 'Andres Mauricio Santaella Ochoa',
+        cargo: 'Soporte front-end',
+        centro:
+          'Centro Industrial del Diseño y la Manufactura Regional Santander',
+      },
+      {
+        nombre: '',
         cargo: 'Producción audiovisual',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
       },
       {
-        nombre: 'Nombre',
+        nombre: '',
         cargo: 'Validación de diseño y contenido',
         centro:
           'Centro Industrial del Diseño y la Manufactura Regional Santander',
