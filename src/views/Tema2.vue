@@ -2,6 +2,7 @@
 .curso-main-container.pb-3
   BannerInterno
   .container.tarjeta.tarjeta--blanca.bg-img.p-4.p-md-5
+      
     .titulo-principal(data-aos="flip-up")
       .titulo-principal__numero
         span 2
@@ -204,7 +205,7 @@
       br
       |Hay un criterio tradicional que divide la estrategia comercial en dos tipos esenciales:
     .row.justify-content-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-4
         .tarjeta.bg--3-claro.px-4.py-4.d-flex.justify-content-center.align-items-center.position-relative
           h4.mb-0 Estrategia comercial de productos.
           .numero.bg--3
@@ -219,7 +220,7 @@
       br
       |Con la aparición de internet, surge un nuevo criterio cuyo uso se ha difundido fuertemente en el mundo empresarial, y que ha dividido los tipos de estrategia comercial en:
     .row.justify-content-center.mb-5
-      .col-lg-5
+      .col-lg-5.mb-4
         .tarjeta.bg--1-claro.px-4.py-4.d-flex.justify-content-center.align-items-center.position-relative
           h4.mb-0 Estrategias comerciales <i>online</i>.
           .numero.bg--1
@@ -273,8 +274,7 @@
         p.mb-0 
           b Entorno externo. 
           | El entorno externo no depende de la empresa porque tiene variables o factores que nacen fuera de ella, por lo tanto, no pueden ser controlados por la empresa, este se integra por los siguientes factores:
-    figure(data-aos='zoom-in-up').mb-5 
-      img(src='@/assets/curso/63.svg')
+    BotonesC.mb-5
     .tarjeta.tarjeta-bg2.p-5.hover.mb-5
       .col-lg-6
         p.mb-0 
@@ -284,8 +284,7 @@
       h5.fw-normal
         b Figura 2  
         | Factores entorno interno
-    figure(data-aos='zoom-in-up').mb-5 
-      img(src='@/assets/curso/64.svg')
+    BotonesB.mb-5
     h3(data-aos='fade-right') Técnicas de ventas
     p.mb-5 Se refiere a los métodos de venta que tienen como finalidad llegar al cliente potencial a través de cualquier medio o canal, incluido internet y su ecosistema digital. El proceso de venta tiene unas etapas que comienzan con la ubicación y calificación del cliente, y terminan en el cierre de la venta; pero, no todo termina con la venta, ya que un excelente vendedor siempre estará en búsqueda de entregar un servicio y atención que generen más valor para el consumidor. 
     .row.mb-5.justify-content-center
@@ -875,9 +874,11 @@
 
 <script>
 import AcordeonB from '../components/AcordeonB.vue'
+import BotonesB from '../components/BotonesB.vue'
+import BotonesC from '../components/BotonesC.vue'
 export default {
   name: 'Tema2',
-  components: { AcordeonB },
+  components: { AcordeonB, BotonesB, BotonesC },
   data: () => ({
     mostrarIndicador: true,
     datosSlyder: [
