@@ -325,7 +325,7 @@
       .row(titulo="Venta personal").px-3  
         .col-lg-6
           p En esta técnica sí hay contacto directo entre vendedor y cliente. Puede tener dos variables: ejecutarse por dentro o por fuera de las sedes de la empresa. 
-        .col-lg-6: img(src='@/assets/curso/69.jpg')
+        .col-lg-6: img(src='@/assets/curso/69.svg')
     p.mb-5 A su vez, las ventas internas, se pueden clasificar en: 
     .row.mb-5
       .col-md-6.col-xl.mb-4.mb-xl-0

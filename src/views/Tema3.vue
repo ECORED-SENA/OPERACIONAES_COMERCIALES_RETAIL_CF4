@@ -73,7 +73,7 @@
         .col-lg-7
           p Herramienta de software que reemplaza las funciones de una persona y que a través de una interfaz tipo chat puede crear conversaciones en tiempo real con los clientes de la marca. Han ganado popularidad en los últimos años presentándose como una nueva forma para que las empresas se puedan comunicar con sus clientes, tanto potenciales como reales; además que aprovechan la progresiva popularidad de las aplicaciones de telefonía celular.
         .col-lg-5: img(src='@/assets/curso/120.jpg')
-      .row.text-small(numero="6" titulo="Whatsapp").p-4
+      .row.text-small(numero="6" titulo="<i>Whatsapp</i>").p-4
         .col-lg-7
           p Herramienta que posee un gran potencial para que las empresas tengan una comunicación directa con los clientes. Es una aplicación que brinda una funcionalidad importante para las empresas (WhatsApp Business) para que éstas puedan tener un contacto más ágil con sus clientes a través de un chatbot que permite a la marca responder de manera instantánea a una gran cantidad de contactos diariamente. Este chatbot es muy útil para empresas que reciben masivamente contactos en el día, además de que puede direccionar las consultas a cada área a través de él. Es un mundo por explorar, por explotar y que está en permanente evolución para el bien de la empresa (Wolters, 2021).
         .col-lg-5: img(src='@/assets/curso/174.jpg')
@@ -322,7 +322,7 @@
           .tarjeta__contenido
             .row
               .col-lg-7
-                p  Instrumentos promocionales que acompañan a los envases como pro ejemplo las botellas o frascos (licores, gaseosas, mermeladas, salsas de tomate, cremas para la piel, etc.) y que son usados para dar información, destacar una promoción, mostrar un valor agregado del producto o informar sobre alguna novedad. Sus funciones son las de contener información adicional del producto como por ejemplo una promoción, recetas o formas de uso; llamar la atención en temporadas o fechas especiales (García, 2015).
+                p  Instrumentos promocionales que acompañan a los envases como por ejemplo las botellas o frascos (licores, gaseosas, mermeladas, salsas de tomate, cremas para la piel, etc.) y que son usados para dar información, destacar una promoción, mostrar un valor agregado del producto o informar sobre alguna novedad. Sus funciones son las de contener información adicional del producto como por ejemplo una promoción, recetas o formas de uso; llamar la atención en temporadas o fechas especiales (García, 2015).
               .col-lg-5: img(src='@/assets/curso/157.jpg')
         .globo__tarjeta.bg--4.p-5(x="78%" y="35%" titulo="Rompetráfico" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
@@ -383,7 +383,7 @@
           .tarjeta__contenido
             .row
               .col-lg-7
-                p Pieza publicitaria que se ubica en el borde de los entrepaños de una góndola para llamar la atención por la forma de su ubicación que lo hace salir del lineal y por su forma que se mueve bien sea al tacto o al viento; conocido también como vibrín o dangler. Su función es la de informar y captar la atención de los clientes con el objetivo de ayudar en la percepción de los productos en los clientes.
+                p Pieza publicitaria que se ubica en el borde de los entrepaños de una góndola para llamar la atención por la forma de su ubicación que lo hace salir del lineal y por su forma que se mueve bien sea al tacto o al viento; conocido también como vibrín o <i>dangler</i>. Su función es la de informar y captar la atención de los clientes con el objetivo de ayudar en la percepción de los productos en los clientes.
               .col-lg-5: img(src='@/assets/curso/162.jpg')
         .globo__tarjeta.bg--4.p-5(x="68.5%" y="52%" titulo="Cenefa" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
@@ -527,7 +527,7 @@
     h3(data-aos='fade-right') De la multicanalidad a la omnicanalidad
     p.mb-5 Hoy en día, las empresas deben intentar conquistar a los clientes que cada vez son más digitales y que adoptaron velozmente las nuevas tecnologías y que, gracias a la difusión de la telefonía celular, se acostumbró a disponer de todo lo que desea, cuando y donde quiera. Es por esto por lo que la ominicanalidad requiere ser flexible y conveniente para que el cliente se pueda comunicar con las marcas a través del canal que elija, cuando lo desee y desde el sitio que quiera. Este paso significa que los canales deben estar interrelacionados y que la información de cada cliente debe fluir sin problema alguno entre las diferentes fases de la relación. Así las cosas, el contacto con el cliente permite que se pueda comenzar el proceso o transacción en un canal, continuarlo en otro y finalizarlo en uno totalmente diferente, todo de manera muy natural, sin grietas en la relación y con la misma identidad de marca.
     .row.mb-5.justify-content-center
-      .col-lg-8(data-aos='zoom-in-up'): img(src='@/assets/curso/145.jpg')
+      .col-lg-8(data-aos='zoom-in-up'): img(src='@/assets/curso/omni.png')
     p.mb-5 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del Customer Journey, entregando consistencia entre los canales usados en cada uno de los diferentes “momentos de la verdad” (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario online o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca sea coherente entre ellos. 
     .row.mb-5
       .col-lg-6(data-aos='fade-right')
