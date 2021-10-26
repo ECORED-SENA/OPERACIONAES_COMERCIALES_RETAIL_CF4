@@ -19,10 +19,7 @@
         | Productos y servicios
     .row.mb-5.justify-content-center
       .col-lg-8(data-aos='zoom-in-up'): img(src='@/assets/curso/49.svg')
-    p.mb-5 Por ejemplo, cuando se compra una pastilla para el dolor muscular, se busca en la farmacia más cercana y a la hora de hacer la compra se requiere de un servicio de atención, facturación y servicio de entrega del producto. 
-      br
-      br
-      |Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, inmobiliario y equipamiento.
+    p.mb-5 También conocido con el nombre de gama de productos. Es un conjunto de productos muy relacionados entre sí por sus funciones y servicios; se diferencian por sus características, tamaños, colores, olores, entre otros. Se refiere al total de artículos que una marca ofrece al consumidor para que tenga opciones de escoger.
     #t_2_1.titulo-segundo(data-aos="fade-right")
       h2 2.1 Portafolio de productos
     .row.mb-5.justify-content-center
@@ -163,7 +160,7 @@
     .row.mb-5.justify-content-center
       .col-lg-7(data-aos='zoom-in-up')
         .cajon.color-secundario.bg--2-claro.p-4.mb-4
-          p Hoy en día, en pleno siglo XXI, contar con una estrategia comercial es cuestión de supervivencia. Aproximadamente el 80% de las compañías que no diseñar nuevas estrategias de marketing y ventas, desaparecen del mercado.
+          p Hoy en día, en pleno siglo XXI, contar con una estrategia comercial es cuestión de supervivencia. Aproximadamente el 80% de las compañías que no diseñar nuevas estrategias de <i>marketing</i> y ventas, desaparecen del mercado.
     .row.mb-5
       .col-lg-6(data-aos='fade-right'): img(src='@/assets/curso/61.jpg')
       .col-lg-6(data-aos='fade-left')
@@ -199,7 +196,7 @@
           span 4
         | Según su definición, la estrategia comercial de ventas se debe gestionar como un proceso que se desarrolla de manera continua e ininterrumpida.
     h3(data-aos='fade-right') Tipos de estrategia comercial de ventas
-    p.mb-5 Lo primero que se debe hacer es diferenciar qué es estrategia comercial de ventas y qué es estrategia de marketing ya que no tienen el mismo fin. La estrategia de marketing se orienta en la generación de oportunidades en el mercado, mientras que la estrategia comercial de ventas se aprovecha de estas oportunidades para lograr la rentabilidad empresarial.
+    p.mb-5 Lo primero que se debe hacer es diferenciar qué es estrategia comercial de ventas y qué es estrategia de <i>marketing</i> ya que no tienen el mismo fin. La estrategia de <i>marketing</i> se orienta en la generación de oportunidades en el mercado, mientras que la estrategia comercial de ventas se aprovecha de estas oportunidades para lograr la rentabilidad empresarial.
       br
       br
       |La estrategia comercial le da prioridad al cierre del proceso de ventas con los clientes ya conocidos. Además de incluir acciones que se dirigen a los clientes de la competencia y, en menor grado, a captar clientes que aún no conocen la marca. Hay varios criterios que sirven para lograr la clasificación de los tipos de estrategia comercial. Son criterios que se operan de manera cotidiana en el ámbito empresarial. 
@@ -242,7 +239,7 @@
     TabsA.color-acento-contenido.mb-5
       .tarjeta.bg--1-claro.p-4(titulo="Paso 1: Elaborar la matriz DOFA ")
         h4 Paso 1: Elaborar la matriz DOFA 
-        p Para la ejecución de este paso se debe tener el brief empresarial, especialmente conocer el contexto y la filosofía de la empresa, o sea, la visión, misión y valores declarados por la misma.
+        p Para la ejecución de este paso se debe tener el <i>brief</i> empresarial, especialmente conocer el contexto y la filosofía de la empresa, o sea, la visión, misión y valores declarados por la misma.
       .tarjeta.bg--1-claro.p-4(titulo="Paso 2: Definir los objetivos comerciales")
         h4 Paso 2: Definir los objetivos comerciales
         p Deben ser establecidos de manera realista y medible.
@@ -262,7 +259,7 @@
         p Las acciones deben diseñarse de manera personalizada y para tener información sobre los hábitos y el comportamiento del cliente, el embudo es primordial para obtener estos datos.
       .tarjeta.bg--1-claro.p-4(titulo="Paso 6: Diseñar una estrategia comercial con soporte omnicanal")
         h4 Paso 6: Diseñar una estrategia comercial con soporte omnicanal
-        p Es el uso creativo de los medios offline y online para beneficio de la marca. Las empresas que acogen una estrategia comercial omnicanal tienen mayores posibilidades de retener más clientes y de lograr mejores resultados.
+        p Es el uso creativo de los medios <i>offline</i> y <i>online</i> para beneficio de la marca. Las empresas que acogen una estrategia comercial omnicanal tienen mayores posibilidades de retener más clientes y de lograr mejores resultados.
     #t_2_4.titulo-segundo(data-aos='fade-right')
       h2 2.4 Las ventas
     .row.mb-5
@@ -307,7 +304,7 @@
         .col-lg-6: img(src='@/assets/curso/65.jpg')
       .row(titulo="Ventas telefónicas").px-3  
         .col-lg-6
-          p También conocida como telemarketing,  especialmente se usa en mercados de gran consumo o para lanzar productos nuevos o en promoción especial.
+          p También conocida como <i>telemarketing</i>,  especialmente se usa en mercados de gran consumo o para lanzar productos nuevos o en promoción especial.
             br
             br
             |Con la aparición de la telefonía celular y de internet, ya no es tan usual ver esta técnica en la actualidad. 
@@ -317,7 +314,7 @@
           p Es el tipo de venta que se respalda en la transferencia de datos a través del ecosistema digital.
             br
             br
-            |Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el WhatsApp sirven de apoyo.
+            |Es la preferida en la actualidad por la economía que presenta a las empresas en su uso y por la agilidad y versatilidad que tiene a la hora de planear las ventas. Correo electrónico, redes sociales, sitios webs y hasta el <i>WhatsApp</i> sirven de apoyo.
         .col-lg-6: img(src='@/assets/curso/67.jpg')
       .row(titulo="Ventas por televisión ").px-3  
         .col-lg-6
@@ -394,32 +391,32 @@
         .bg--3.p-3.rounded-pill.mb-3.text-center.h-100.hover-color
           .textos
 
-            h4.mb-0 En la planta:
-            p.mb-0 en los pisos, paredes, cielo raso y desagües.
+            h4.mb-0 En la planta
+            p.mb-0 En los pisos, paredes, cielo raso y desagües.
       .col-lg-4.mb-3
         .bg--3.p-3.rounded-pill.mb-3.text-center.h-100.hover-color
           .textos
 
-            h4.mb-0 En los alrededores:  
-            p.mb-0 zonas externas a las PPA para presentar facilidades sanitarias.
+            h4.mb-0 En los alrededores  
+            p.mb-0 Zonas externas a las PPA para presentar facilidades sanitarias.
       .col-lg-4.mb-3
         .bg--3.p-3.rounded-pill.mb-3.text-center.h-100.hover-color
           .textos
 
-            h4.mb-0 Con equipos:  
-            p.mb-0 desinfección, mantenimiento y calibración de los equipos.
+            h4.mb-0 Con equipos  
+            p.mb-0 Desinfección, mantenimiento y calibración de los equipos.
     .row.mb-5.justify-content-center
       .col-lg-4.mb-3
         .bg--3.p-3.rounded-pill.mb-3.text-center.h-100.hover-color
           .textos
 
-            h4.mb-0 En almacenes: 
-            p.mb-0 ubicación interna, ventilados e iluminación.
+            h4.mb-0 En almacenes 
+            p.mb-0 Ubicación interna, ventilados e iluminación.
       .col-lg-4.mb-3
         .bg--3.p-3.rounded-pill.mb-3.text-center.h-100.hover-color
           .textos
-            h4.mb-0 Procesos productivos: 
-            p.mb-0 lógica en los procesos sanitarios (de higiene y presentación) del personal, como ejemplo.
+            h4.mb-0 Procesos productivos 
+            p.mb-0 Lógica en los procesos sanitarios (de higiene y presentación) del personal, como ejemplo.
     p.mb-5 Este tema tiene que ver con todo el establecimiento, con el personal o empleados, con la higiene en la producción o transformación de los productos, con el almacenamiento y transporte de materias primas y del producto final, con el control de procesos en la producción y la documentación, entre otros. De tal forma que se pueda garantizar la calidad en los productos alimenticios.
       br
       br
@@ -647,7 +644,7 @@
             p Entender qué tipo de producto es
       .col-lg-3
         .tarjeta.bg--1-claro.p-4.h-100.hover
-          img(src='@/assets/curso/91.svg' style='width: 85px').m-auto.mb-3
+          img(src='@/assets/curso/91.svg' style='width: 86px').m-auto.mb-3
           .text-center
             h4 Interés
             p Generar el deseo de saber más acerca del producto.
@@ -776,7 +773,7 @@
             .row.justify-content-center
               .col-lg-5(data-aos="fade-rigth")
                 h4 Demostración en gran escala
-                p Es importante elegir el lugar perfecto para desarrollar la demostración. Cuando se trata de muchos posibles clientes, el sistema más económico es llevarlos al sitio de trabajo de un cliente real para observar el desempeño del producto, o en un lugar amoblado para la demostración del producto en masa. Por ejemplo, artículos de maquinaria pesada, productos de sistemas de audio tipo Home Theater.
+                p Es importante elegir el lugar perfecto para desarrollar la demostración. Cuando se trata de muchos posibles clientes, el sistema más económico es llevarlos al sitio de trabajo de un cliente real para observar el desempeño del producto, o en un lugar amoblado para la demostración del producto en masa. Por ejemplo, artículos de maquinaria pesada, productos de sistemas de audio tipo <i>Home Theater</i>.
               .col-lg-5(data-aos="fade-left")
                 img(src="@/assets/curso/103.jpg")
         button.carousel-control-prev(type='button' data-bs-target='#carouselExampleIndicators' data-bs-slide='prev')
@@ -810,7 +807,7 @@
     p.mb-5 La manera en que el vendedor ordena su material y sincroniza la demostración, incide directamente en la selección de las herramientas visuales (tales como fotografías, esquemas, gráficos, diagramas, pruebas, etc.). Esta selección brinda el más alto potencial para optimizar las demostraciones debido a las siguientes razones: 
     .bg--4-claro2.p-4
       .row.justify-content-center.align-items-center
-        .col-lg-3(data-aos="fade-rigth"): img(src='@/assets/curso/104.svg' style='width: 179px').m-auto
+        .col-lg-3(data-aos="fade-rigth"): img(src='@/assets/curso/105.svg' style='width: 179px').m-auto
         .col-lg-9(data-aos="fade-left")
           ul.lista-ul--color
             li 

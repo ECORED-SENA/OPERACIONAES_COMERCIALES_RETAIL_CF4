@@ -91,3 +91,27 @@
     background-color: #DED2F3 !important
 .linea-tiempo-d__item--selected .linea-tiempo-d__item__content__title
     background-color: #DED2F3 !important
+.img-infografica-b__modal
+  background-color: $color-acento-botones !important
+  p, h5, li
+    color: $color-sistema-texto !important
+  .img-infografica-b__modal__contenido
+.img-infografica-b__item__dot
+  &:before 
+    display: none
+  &:after 
+    display: none
+  width: 130px
+  height: 130px
+  border-radius: 50%
+.img-infografica-b__item__dot
+  animation: color 3s infinite
+@keyframes color 
+0% 
+  background-color: #5C22C3
+
+50% 
+  background-color: #64B5F6
+
+100% 
+  background-color: #5C22C3

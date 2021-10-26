@@ -13,7 +13,7 @@
     .row.mb-5.justify-content-center
       .col-lg-8(data-aos='zoom-in-up')
         .cajon.color-secundario.bg--2-claro.p-4.mb-4
-          p Ahora, hablando de publicidad en el punto de venta se puede decir, que se realiza dentro de la tienda y por lo general se puede denominar PLV (Publicidad en el Lugar de Venta), PPV (Publicidad en el Punto de Venta) o Point of Purchase - POP (Publicidad en el Punto de Compra). 
+          p Ahora, hablando de publicidad en el punto de venta se puede decir, que se realiza dentro de la tienda y por lo general se puede denominar <b>PLV</b> (Publicidad en el Lugar de Venta), <b>PPV</b> (Publicidad en el Punto de Venta) o <i>Point of Purchase</i> - <b>POP</b> (Publicidad en el Punto de Compra). 
     p.mb-5 Estas siglas hacen referencia a una manera de comunicar que con frecuencia la emplean los anunciantes que mercadean sus productos en el interior de los establecimientos comerciales. Y más exactamente se refiere a las piezas publicitarias diseñadas con el propósito de exponerlas en el punto de venta para alcanzar de manera directa a los clientes. Estas piezas publicitarias persuasivas hacen del punto de venta su canal de comunicación logrando que la publicidad esté de frente al cliente, justo en el espacio correcto y en el momento preciso en el que se ejecuta una acción de compra.
       br
       br
@@ -21,7 +21,7 @@
     .row.mb-5.justify-content-center
       .col-lg-4
         .tarjeta.tarjeta-hover.bg--3.p-5.h-100.d-flex.align-items-center.hover(style="min-height: 405px")
-          p.mb-0.text-center.text-white.mx-4 Su función es la transmisión de mensajes persuasivos que cautiven a las personas que se encuentran en el establecimiento. No confundir con diseño de envases y empaques o con merchandising.
+          p.mb-0.text-center.text-white.mx-4 Su función es la transmisión de mensajes persuasivos que cautiven a las personas que se encuentran en el establecimiento. No confundir con diseño de envases y empaques o con <i>merchandising</i>.
           .imagen-hover: img(src="@/assets/curso/110.png")
       .col-lg-4
         .tarjeta.tarjeta-hover.bg--4.p-5.h-100.d-flex.align-items-center.hover(style="min-height: 405px")
@@ -128,9 +128,9 @@
               img(src='@/assets/curso/12.svg', alt='Texto que describa la imagen')
     #t_1_3.titulo-segundo(data-aos="fade-right")
       h2 1.3 Promoción
-    p.mb-5 La promoción es un plan integral de marketing que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de marketing, puesto que su elaboración involucra la toma de decisiones sobre todas las variables del mix de marketing. Los objetivos de una promoción deben ser muy bien definidos y además concretos. La idea es el logro de objetivos a corto plazo que sean simples de medir y evaluar, como por ejemplo el aumento en las ventas (Zambrano, 2021).
+    p.mb-5 La promoción es un plan integral de <i>marketing</i> que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de <i>marketing</i>, puesto que su elaboración involucra la toma de decisiones sobre todas las variables del mix de <i>marketing</i>. Los objetivos de una promoción deben ser muy bien definidos y además concretos. La idea es el logro de objetivos a corto plazo que sean simples de medir y evaluar, como por ejemplo el aumento en las ventas (Zambrano, 2021).
     h3(data-aos="fade-right") Técnicas de promoción
-    p.mb-5 Área del marketing donde se debe entregar una gran dosis creativa para lograr mejores resultados. Entre las diferentes técnicas se pueden destacar las siguientes:
+    p.mb-5 Área del <i>marketing</i> donde se debe entregar una gran dosis creativa para lograr mejores resultados. Entre las diferentes técnicas se pueden destacar las siguientes:
     .tarjeta.tarjeta-bg(data-aos="zoom-in-up")
       #carouselExampleIndicators.carousel.slide.mb-5(data-bs-ride='carousel').p-5
         .carousel-indicators
@@ -157,8 +157,8 @@
           .carousel-item.py-5
             .row.justify-content-center
               .col-lg-5(data-aos="fade-rigth")
-                h4 Programas de fidelización focus  costumer
-                p En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de marketing relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca.
+                h4 Programas de fidelización <i>focus  costumer</i>
+                p En la actualidad el cliente es el eje central de toda estrategia comercial, por eso, bajo el apelativo de <i>marketing</i> relacional, esta actividad ha estado en crecimiento. Se trata de una estrategia de mercadeo que se establece por una marca con el objetivo de premiar el comportamiento de compra de los clientes, generando un sentido de lealtad y pertenencia hacia la marca.
               .col-lg-5(data-aos="fade-left")
                 img(src="@/assets/curso/15.jpg")
           .carousel-item.py-5
@@ -243,7 +243,7 @@
           .contenido-tarjetas.d-flex.align-items-center
             img(src='@/assets/curso/21.svg' style='width: 93px').mx-3
             .textos
-              h4 Identificación plena del target 
+              h4 Identificación plena del <i>target</i> 
               p Saber a quién se va a dirigir la promoción, porque de esta forma puede tener una respuesta más positiva por parte de este público.
     .row.mb-3 
       .col-lg-6.mb-3
@@ -274,7 +274,7 @@
             img(src='@/assets/curso/25.svg' style='width: 93px').mx-3
             .textos
               h4 Ser proactivo
-              p Estar al tanto de las tendencias, hacer benchmarking (analizar a la competencia), observar el comportamiento del mercado, analizar los hábitos de compra del consumidor, entre otros. La finalidad es aprovechar las oportunidades que existan en el camino.
+              p Estar al tanto de las tendencias, hacer <i>benchmarking</i> (analizar a la competencia), observar el comportamiento del mercado, analizar los hábitos de compra del consumidor, entre otros. La finalidad es aprovechar las oportunidades que existan en el camino.
     p.mb-5 
       b Objetivos. 
       | La promoción tiene que ser coherente con la campaña de comunicación o publicitaria que se incluya en el plan de mercadeo de la marca, teniendo perfectamente claro cuál es la intención de la promoción:
@@ -289,7 +289,7 @@
           li 
             .lista-ol--cuadro__vineta
               span.text-size B
-            b Incrementar el tráfico en el sitio web.
+            b Aumentar las ventas de la marca.
           li 
             .lista-ol--cuadro__vineta
               span.text-size C
@@ -340,9 +340,9 @@
                     span.text-size L
                   b Conseguir más fanáticos en redes sociales.
     p.mb-5 Para terminar este apartado, se debe tener en cuenta que los productos que se promocionan deben tener la misma calidad y deben ser iguales a los que se ven en la publicidad, los tiempos de entrega deben ser mínimos cuando se habla de entrega a domicilio y, claro, no hacer publicidad engañosa cumpliendo con todo lo que se informa en la promoción (Burin, 2017).
-    #_1_4.titulo-segundo(data-aos="fade-right")
+    #t_1_4.titulo-segundo(data-aos="fade-right")
       h2 1.4 Evento promocional
-    p.mb-5 La promoción es un plan integral de marketing que tiene corta duración, que se destina para el logro de objetivos delimitados de manera específica por la marca. Se considera un plan integral de marketing, puesto que su elaboración involucra la toma de decisiones sobre todas las variables del mix de marketing. Los objetivos de una promoción deben ser muy bien definidos y además concretos. La idea es el logro de objetivos a corto plazo que sean simples de medir y evaluar, como por ejemplo el aumento en las ventas (Zambrano, 2021).
+    p.mb-5 Son una parte vital de las estrategias de comunicación de las empresas. La marca apela al evento cuando tiene algo que notificar. No se trata solo de lanzar un mensaje a los clientes, se trata de la transmisión de los valores de la marca y siendo capaces de envolverlo en un entorno creativo donde se pueda transmitir experiencias y emociones significativas. 
     .row.mb-5.justify-content-center
       .col-lg-8(data-aos='zoom-in-up')
         .cajon.color-secundario.bg--2-claro.p-4.mb-4
@@ -387,7 +387,7 @@
     p.mb-5 El objetivo de un evento debe marcar su tipología; en cambio su formato es el medio o canal usado para llevarlo a cabo. 
       br
       br
-      |Entonces, lo eventos de motivación se pueden llevar a cabo a través de networking, viajes de incentivos o convenciones; los eventos de posicionamiento de marca se pueden llevar a cabo a través de acciones callejeras, marketing de guerrilla, un roadshow, happenings, marketing ambiental o evento promocional; los eventos que son institucionales que se pueden llevar a cabo a través de formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas; y también están los eventos relacionales y co participativos que se pueden llevar a cabo a través de desayunos, almuerzos, Focus Group, cocreación, etc. 
+      |Entonces, lo eventos de motivación se pueden llevar a cabo a través de <i>networking</i>, viajes de incentivos o convenciones; los eventos de posicionamiento de marca se pueden llevar a cabo a través de acciones callejeras, <i>marketing</i> de guerrilla, un <i>roadshow, happenings</i>, <i>marketing</i> ambiental o evento promocional; los eventos que son institucionales que se pueden llevar a cabo a través de formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas; y también están los eventos relacionales y co participativos que se pueden llevar a cabo a través de desayunos, almuerzos, <i>Focus Group</i>, cocreación, etc. 
       br
       br
       |De esta forma, se puede continuar despejando muchas más modalidades de tipos de eventos que se pueden tener en cuenta en las estrategias que sean patrocinadas por una marca.
@@ -402,7 +402,7 @@
           b Eventos de proyección externa. 
           | Dirigidos a un público ajeno a la empresa. Se caracterizan por una mayor superficialidad en los mensajes, ya que van dirigidos a un público muy heterogéneo. Su finalidad puede ser muy diversa: institucional, de posicionamiento, de motivación (de agentes externos), promocionales, formación, etc. La siguiente clasificación son tipos de eventos externos:
     TabsB.color-acento-contenido.mb-5
-      .py-4.py-md-5(titulo="Roadshows" :icono="require('@/assets/curso/29.svg')")
+      .py-4.py-md-5(titulo="<i>Roadshows</i>" :icono="require('@/assets/curso/29.svg')")
         .row
           .col-md-7.mb-4.mb-md-0
             h4 Roadshows
@@ -433,7 +433,7 @@
         .row
           .col-md-7.mb-4.mb-md-0
             h4 Lanzamiento de productos
-            p Evento que debe tener en cuenta la selección del sitio correcto para desarrollarlo. Y para ello también se debe tener en cuenta la audiencia target. Pensar si el evento lo pueden disfrutar más en persona o a través de una experiencia online. Estos detalles son vitales porque elegir el lugar perfecto para lanzar el producto es un elemento crítico que puede ser clave del éxito comercial. Un evento en vivo debe tener un lugar maravilloso que la gente se sienta atraída por asistir, lo cual ayudará a aumentar las ventas y a generar nuevo engagement por parte de los clientes. También se debe decidir cuánta gente se desea que asista, no necesariamente se requiere de muchos invitados, a veces una experiencia íntima puede impactar tanto como un evento masivo.
+            p Evento que debe tener en cuenta la selección del sitio correcto para desarrollarlo. Y para ello también se debe tener en cuenta la audiencia <i>target</i>. Pensar si el evento lo pueden disfrutar más en persona o a través de una experiencia <i>online</i>. Estos detalles son vitales porque elegir el lugar perfecto para lanzar el producto es un elemento crítico que puede ser clave del éxito comercial. Un evento en vivo debe tener un lugar maravilloso que la gente se sienta atraída por asistir, lo cual ayudará a aumentar las ventas y a generar nuevo <i>engagement</i> por parte de los clientes. También se debe decidir cuánta gente se desea que asista, no necesariamente se requiere de muchos invitados, a veces una experiencia íntima puede impactar tanto como un evento masivo.
           .col-md-5
             figure
               img(src='@/assets/curso/36.jpg' alt='AvatarTop')
@@ -506,8 +506,8 @@
         .col-xl-7
           p La participación por parte de la empresa en eventos y congresos es rentable a la hora de enlazar con otros profesionales, destacarse sobre la competencia e incluso captar clientes nuevos. Y en ese sentido es muy importante conocer qué tipos de estanterías hay en el mercado para elegir la que mejor se acomode a la empresa.
       .img-stand: img(src='@/assets/curso/47.svg' style='width: 478px').m-auto     
-    h3(data-aos='fade-right') Tipos de stand
-    p.mb-5 Lo bueno de los stands es que en su diseño pueden ser tan versátiles como la creatividad de los mismos diseñadores, a continuación, se pueden ver los tipos de stand:
+    h3(data-aos='fade-right') Tipos de <i>stand</i>
+    p.mb-5 Lo bueno de los <i>stands</i> es que en su diseño pueden ser tan versátiles como la creatividad de los mismos diseñadores, a continuación, se pueden ver los tipos de stand:
     Scroll
 
 </template>
