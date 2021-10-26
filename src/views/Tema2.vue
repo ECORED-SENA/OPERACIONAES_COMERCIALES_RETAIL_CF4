@@ -20,15 +20,18 @@
         | Productos y servicios
     .row.mb-5.justify-content-center
       .col-lg-8(data-aos='zoom-in-up'): img(src='@/assets/curso/49.svg')
-    p.mb-5 También conocido con el nombre de gama de productos. Es un conjunto de productos muy relacionados entre sí por sus funciones y servicios; se diferencian por sus características, tamaños, colores, olores, entre otros. Se refiere al total de artículos que una marca ofrece al consumidor para que tenga opciones de escoger.
+    p.mb-5 Por ejemplo, cuando se compra una pastilla para el dolor muscular, se busca en la farmacia más cercana y a la hora de hacer la compra se requiere de un servicio de atención, facturación y servicio de entrega del producto.
+
+      br
+      br
+      | Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, inmobiliario y equipamiento.
+
+
     #t_2_1.titulo-segundo(data-aos="fade-right")
       h2 2.1 Portafolio de productos
     .row.mb-5.justify-content-center
       .col-lg-6(data-aos="fade-right")
-        p.mb-5 Por ejemplo, cuando se compra una pastilla para el dolor muscular, se busca en la farmacia más cercana y a la hora de hacer la compra se requiere de un servicio de atención, facturación y servicio de entrega del producto. 
-          br
-          br
-          |Por su lado, la naturaleza del servicio es intangible, pero, en cuanto a su funcionamiento, necesita de su parte tangible. Por ejemplo, un hotel brinda el servicio de hospedaje, pero, para poder proporcionar este servicio, necesita de infraestructura física, inmobiliario y equipamiento.
+        p.mb-5 También conocido con el nombre de gama de productos. Es un conjunto de productos muy relacionados entre sí por sus funciones y servicios; se diferencian por sus características, tamaños, colores, olores, entre otros. Se refiere al total de artículos que una marca ofrece al consumidor para que tenga opciones de escoger.
       .col-lg-6(data-aos="fade-left"): img(src='@/assets/curso/50.jpg')
     h3(data-aos='fade-right') Características de la gama de productos 
     p.mb-5 Tiene que ver con las dimensiones del surtido, tema visto en el módulo anterior. En este apartado se ampliará el concepto. La gama de productos se define a partir de las siguientes variables: 
