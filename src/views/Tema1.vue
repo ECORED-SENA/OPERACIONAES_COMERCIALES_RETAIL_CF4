@@ -498,7 +498,7 @@
     figure.mb-5
       .video
         iframe(width="560" height="315" src="https://www.youtube.com/embed/CRpJ7Ff4F7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Video: Leyenda del video
+      figcaption Tipos de eventos
     #t_1_5.titulo-segundo(data-aos="fade-right")
       h2 1.5 El stand
     .bg--1-claro.p-5.position-relative.mb-5
