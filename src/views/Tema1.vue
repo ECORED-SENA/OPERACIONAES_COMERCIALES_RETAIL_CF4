@@ -497,8 +497,8 @@
       |Sin embargo, un evento puede a su vez adoptar diferentes formatos y contemplar distintas actividades. Por lo que existen más clasificaciones que se realizan atendiendo a los objetivos de los eventos, y que dentro de ellas se pueden señalar los formatos que pueden tener: 
     figure.mb-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/CRpJ7Ff4F7E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
-      figcaption Tipos de eventos
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/k5sced_JwsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+      figcaption Tipos de formatos para eventos
     #t_1_5.titulo-segundo(data-aos="fade-right")
       h2 1.5 El stand
     .bg--1-claro.p-5.position-relative.mb-5
