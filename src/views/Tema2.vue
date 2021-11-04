@@ -83,7 +83,7 @@
       .col-lg-10
         .tarjetas-borde.bg-white.h-100.rounded-card.p-5
           h4 Mixtos
-          p Es cuando el producto necesita del componente de servicio, sin importar si es en un grado mayor o menor. Como ejemplo se pueden citar los restaurantes, porque el producto va a variar de precio de acuerdo con la calidad de los servicios y atención prestada (música de fondo o en vivo, espacios amplios y cómodos, zonas de juegos para los niños, entre otros. 
+          p Es cuando el producto necesita del componente de servicio, sin importar si es en un grado mayor o menor. Como ejemplo se pueden citar los restaurantes, porque el producto va a variar de precio de acuerdo con la calidad de los servicios y atención prestada (música de fondo o en vivo, espacios amplios y cómodos, zonas de juegos para los niños, entre otros). 
     .row.mb-3.g-0
       .col-lg-2
         .tarjeta.tarjeta-hover.bg--1.rounded-0.h-100
@@ -208,12 +208,12 @@
       br
       |Hay un criterio tradicional que divide la estrategia comercial en dos tipos esenciales:
     .row.justify-content-center.mb-5
-      .col-lg-5.mb-4
+      .col-xl-5.mb-4
         .tarjeta.bg--3-claro.px-4.py-4.d-flex.justify-content-center.align-items-center.position-relative
-          h4.mb-0 Estrategia comercial de productos.
+          h4.mb-0.ms-4 Estrategia comercial de productos.
           .numero.bg--3
             p.mb-0.text-white 1
-      .col-lg-5
+      .col-xl-5
         .tarjeta.bg--3-claro.px-4.py-4.d-flex.justify-content-center.align-items-center.position-relative
           h4.mb-0 Estrategia comercial de servicios.
           .numero.bg--3
@@ -223,12 +223,12 @@
       br
       |Con la aparición de internet, surge un nuevo criterio cuyo uso se ha difundido fuertemente en el mundo empresarial, y que ha dividido los tipos de estrategia comercial en:
     .row.justify-content-center.mb-5
-      .col-lg-5.mb-4
+      .col-xl-5.mb-4
         .tarjeta.bg--1-claro.px-4.py-4.d-flex.justify-content-center.align-items-center.position-relative
           h4.mb-0 Estrategias comerciales <i>online</i>.
           .numero.bg--1
             p.mb-0 1
-      .col-lg-5
+      .col-xl-5
         .tarjeta.bg--1-claro.px-4.py-4.d-flex.justify-content-center.align-items-center.position-relative
           h4.mb-0 Estrategias comerciales <i>offline</i>.
           .numero.bg--1
@@ -381,7 +381,7 @@
           br
           |De esta forma cada integrante puede construir y dirigir su fuerza de venta afiliando, motivando y adiestrando a otros para que realicen lo mismo que él, hasta el punto de construir su propia organización, si así lo desean.
     #t_2_5.titulo-segundo(data-aos='fade-right')
-      h2 2.5 Buenas Prácticas de Manufactura (BPM)
+      h2 2.5 Buenas Prácticas de Manufactura
     .row.mb-5.align-items-end
       .col-lg-6(data-aos='fade-right')
         .cajon-b.color-secundario.abajo-derecha.p-3.mb-5
@@ -429,7 +429,7 @@
         p Si se sospecha que la materia prima es inadecuada, debe ser aislada de inmediato para ser rotulada y eliminarla. Las medidas que la empresa debe tener para eliminación de esta materia prima contaminada son específicas, según sea el proceso de elaboración. La materia prima debe estar almacenada en condiciones adecuadas que certifiquen su protección contra cualquier tipo de contaminante. Los productos terminados deben estar lejos del depósito para evitar la contaminación. Además, el almacenamiento se debe realizar en condiciones óptimas y el transporte debe realizarse según sean los principios higiénico-sanitarios que la empresa considere pertinentes.
       .tarjeta.bg--1-claro.p-4(titulo="BPM en los establecimientos")
         h4 BPM en los establecimientos
-        p No pueden estar ubicados en lugares que afecten la calidad del producto, como, por ejemplo, humedad o agua, peligro de deslave, o incluso olores censurables. Las vías internas en la empresa deben estar pavimentadas de tal forma que permitan la circulación de furgones, camiones y contenedores. La estructura del establecimiento debe ser sólida y sanitariamente apropiada, además, no debe haber materiales que transmitan sustancias indeseables a los alimentos. Deben existir muros y separaciones entre las áreas para evitar la contaminación cruzada. Los equipos e instrumentos deben ser de un material que permita desmontarlos para su desinfección. Es por esto por lo que el diseño de los equipos tiene que admitir una óptima desinfección. La limpieza de las áreas debe hacerse de manera fácil y adecuada. El agua usada para la limpieza tiene que ser potable y los pisos deben tener una inclinación del 2% para su correcto desagüe. Y finamente, la caja de revisión se debe situar en el exterior de la PPA.
+        p No pueden estar ubicados en lugares que afecten la calidad del producto, como, por ejemplo, humedad o agua, peligro de deslave, o incluso olores censurables. Las vías internas en la empresa deben estar pavimentadas de tal forma que permitan la circulación de furgones, camiones y contenedores. La estructura del establecimiento debe ser sólida y sanitariamente apropiada, además, no debe haber materiales que transmitan sustancias indeseables a los alimentos. Deben existir muros y separaciones entre las áreas para evitar la contaminación cruzada. Los equipos e instrumentos deben ser de un material que permita desmontarlos para su desinfección. Es por esto por lo que el diseño de los equipos tiene que admitir una óptima desinfección. La limpieza de las áreas debe hacerse de manera fácil y adecuada. El agua usada para la limpieza tiene que ser potable y los pisos deben tener una inclinación del 2 % para su correcto desagüe. Y finamente, la caja de revisión se debe situar en el exterior de la PPA.
       .tarjeta.bg--1-claro.p-4(titulo="BPM en la higiene de las plantas procesadoras de alimentos")
         h4 BPM en la higiene de las plantas procesadoras de alimentos
         p Las herramientas, equipos y material de trabajo se deben mantener en el mejor estado higiénico para su máxima conservación. En la limpieza y desinfección, se debe usar productos que no contaminen el proceso de las PPA. Se recomienda aplicar Planes Operativos Estandarizados de Saneamiento (POES) que muestran cómo, cuándo y dónde hacer limpieza y desinfección. 
@@ -444,8 +444,8 @@
         p El material que se va a destinar para empacar y envasar no puede emitir sustancias tóxicas y, además, debe estar libre de contaminantes. La elaboración de los alimentos o el proceso que sufren de transformación debe ser realizado por empleados que hayan tenido capacitación al respecto y supervisado por el personal técnico. 
       .tarjeta.bg--1-claro.p-4(titulo="BPM en el almacenamiento y transporte")
         h4 BPM en el almacenamiento y transporte de materias primas
-        p Como todas las prácticas anteriores, que sea en condiciones óptimas. Realizar inspecciones periódicas durante el almacenamiento. Dependiendo del tipo de producción se instauran las exigencias para el transporte de materias primas. Cuando hay alimentos  congelados deben ser transportados con un correcto funcionamiento del equipo de frio, verificando que su temperatura sea la adecuada. Los vehículos, accesorios y conexiones deben estar siempre limpios, libres de tierra o desperdicio que contaminen los alimentos. Por otro lado, dependiendo del tipo de transporte, pueden variar los procesos y productos de limpieza. 
-      .tarjeta.bg--1-claro.p-4(titulo="BPM en el procesos y documentación")
+        p Como todas las prácticas anteriores, que sea en condiciones óptimas. Realizar inspecciones periódicas durante el almacenamiento. Dependiendo del tipo de producción se instauran las exigencias para el transporte de materias primas. Cuando hay alimentos  congelados deben ser transportados con un correcto funcionamiento del equipo de frío, verificando que su temperatura sea la adecuada. Los vehículos, accesorios y conexiones deben estar siempre limpios, libres de tierra o desperdicio que contaminen los alimentos. Por otro lado, dependiendo del tipo de transporte, pueden variar los procesos y productos de limpieza. 
+      .tarjeta.bg--1-claro.p-4(titulo="BPM en procesos y documentación")
         h4 BPM en el control de procesos y documentación
         p También se deben tener en cuenta los análisis de laboratorios para establecer cuáles son los contaminantes físicos, químicos y microbiológicos. Con el fin de garantizar un resultado óptimo en las BPM, se necesitan los controles que certifiquen el cumplimiento de los procedimientos y los criterios para obtener la calidad deseada. Su propósito es la definición, por escrito, de los procedimientos y los controles. El sistema de control debe permitir diferenciar entre números de lotes, fecha de fabricación y vencimiento, y debe permitir seguir el rastro del producto.
     h3(data-aos='fade-right') Prácticas de limpieza
@@ -820,7 +820,7 @@
               | Las nuevas tendencias en diseño de gráfico y sus técnicas suministran opciones muy importantes que fortalecen la presentación verbal del vendedor. 
             li 
               i.vineta
-              | Las ayudas visuales centran la atención del cliente potencial en las ventajas y beneficios del producto (Universidad América Latina - UAL, 2021.
+              | Las ayudas visuales centran la atención del cliente potencial en las ventajas y beneficios del producto (Universidad América Latina - UAL, 2021).
     #t_2_7.titulo-segundo(data-aos='fade-right')
       h2 2.7 Las degustaciones
     .row.mb-5

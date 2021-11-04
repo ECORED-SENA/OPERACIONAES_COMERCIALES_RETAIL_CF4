@@ -45,7 +45,7 @@ export default {
         pos_x: '63%',
         pos_y: '43%',
         texto:
-          '<b>Económicos.</b> Se refiere al poder adquisitivo de la sociedad, las personas sólo compran bienes o servicios si poseen dinero. Por esta razón, en este factor se deben tener en cuenta indicadores como el PIB, el tipo de cambio, el índice de inflación, los intereses, el cambio del dólar o del euro, entre otras. Con estos indicadores se podrá realizar un pronóstico de ventas más ajustado y real.',
+          '<b>Económicos.</b> Se refiere al poder adquisitivo de la sociedad, las personas solo compran bienes o servicios si poseen dinero. Por esta razón, en este factor se deben tener en cuenta indicadores como el PIB, el tipo de cambio, el índice de inflación, los intereses, el cambio del dólar o del euro, entre otras. Con estos indicadores se podrá realizar un pronóstico de ventas más ajustado y real.',
       },
       {
         pos_x: '35%',

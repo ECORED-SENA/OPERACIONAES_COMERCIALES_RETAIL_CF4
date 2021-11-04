@@ -261,7 +261,7 @@ export default {
       link: '',
     },
     {
-      referencia: 'Zambrano, F. (2021). Marketing ptomoción.',
+      referencia: 'Zambrano, F. (2021). Marketing promoción.',
       link: 'https://es.calameo.com/books/006559089cc12d9b80dfb',
     },
   ],

@@ -75,7 +75,7 @@
         .col-lg-5: img(src='@/assets/curso/120.jpg')
       .row.text-small(numero="6" titulo="<i>Whatsapp</i>").p-4
         .col-lg-7
-          p Herramienta que posee un gran potencial para que las empresas tengan una comunicación directa con los clientes. Es una aplicación que brinda una funcionalidad importante para las empresas (WhatsApp Business) para que éstas puedan tener un contacto más ágil con sus clientes a través de un chatbot que permite a la marca responder de manera instantánea a una gran cantidad de contactos diariamente. Este chatbot es muy útil para empresas que reciben masivamente contactos en el día, además de que puede direccionar las consultas a cada área a través de él. Es un mundo por explorar, por explotar y que está en permanente evolución para el bien de la empresa (Wolters, 2021).
+          p Herramienta que posee un gran potencial para que las empresas tengan una comunicación directa con los clientes. Es una aplicación que brinda una funcionalidad importante para las empresas (WhatsApp Business) para que estas puedan tener un contacto más ágil con sus clientes a través de un chatbot que permite a la marca responder de manera instantánea a una gran cantidad de contactos diariamente. Este chatbot es muy útil para empresas que reciben masivamente contactos en el día, además de que puede direccionar las consultas a cada área a través de él. Es un mundo por explorar, por explotar y que está en permanente evolución para el bien de la empresa (Wolters, 2021).
         .col-lg-5: img(src='@/assets/curso/174.jpg')
     #t_3_2.titulo-segundo(data-aos='fade-right')
       h2 3.2 El asesor comercial
@@ -84,7 +84,7 @@
       .col-lg-6(data-aos='fade-left'): p Profesional que tiene como función entregar la información suficiente y completa a los clientes potenciales o posibles compradores con el fin de lograr una acción de compra por parte de ellos. Otras funciones son, conocer los mercados y los productos y servicios, y hacer un seguimiento sobre esos clientes o posibles compradores (Wetto, 2017).
         br
         br
-        |El asesor comercial, en general, es un vendedor, pero son personas que no se limitan a conseguir una venta, sino que intentan conseguir de los clientes la información que se necesita para ofrecerles el producto que mejor se ajuste a sus necesidades. Y en este sentido, entregan una atención antes, durante y después de la compra. Y en este sentido, cumple un rol de doble vía, porque además de asesorar y entregar información útil a los clientes, consigue de ellos datos importantes que luego los puede usar la empresa para mejorar en todo sentido, desde los productos y servicios, hasta las estrategias comerciales, el branding y el mercado objetivo. 
+        |El asesor comercial, en general, es un vendedor, pero son personas que no se limitan a conseguir una venta, sino que intentan conseguir de los clientes la información que se necesita para ofrecerles el producto que mejor se ajuste a sus necesidades. Y en este sentido, entregan una atención antes, durante y después de la compra. Y en este sentido, cumple un rol de doble vía, porque además de asesorar y entregar información útil a los clientes, consigue de ellos datos importantes que luego los puede usar la empresa para mejorar en todo sentido, desde los productos y servicios, hasta las estrategias comerciales, el <i>branding</i> y el mercado objetivo. 
     h3(data-aos='fade-right') Funciones del asesor comercial
     p.mb-5 El asesor comercial cuenta con muchos elementos y herramientas para el logro de su objetivo, la venta, por lo cual es necesario conocer las funciones inherentes a su cargo, las que se verán a continuación:
     .tarjeta.bg--1-claro.p-5.mb-5
@@ -167,7 +167,7 @@
           |Son económicos para el consumidor, pero no lo son para los anunciantes. En general, todos los medios masivos de comunicación son costosos publicitariamente hablando. Y además, el papel periódico no es de excelente calidad, por lo que el proceso de impresión se debe realizar en tintas RGB (Red, Green y Blue). 
         .col-lg-4: img(src='@/assets/curso/131.jpg')
       .row(titulo="Revistas").px-3    
-        .col-lg-8: p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializada en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc.). 
+        .col-lg-8: p Así como los periódicos, las revistas también son medios masivos visuales, con la ventaja de poder seleccionar mejor a la audiencia meta (hay revistas especializadas en muchas áreas, por ejemplo, deportivas, económicas, farándula, noticias, tecnología, etc.). 
           br
           br
           |Tienen mayor calidad tanto en impresión (usa tintas CMYK – cian, magenta, cian y black) como en el papel (propalcote), por lo que son más costosas para los lectores y también para los anunciantes.
@@ -183,7 +183,7 @@
     .row.mb-5
       .col-lg-6(data-aos='fade-right'): img(src='@/assets/curso/134.jpg', alt='Texto que describa la imagen')
       .col-lg-6(data-aos='fade-left')
-        p Es una herramienta muy efectiva de Branding que en la actualidad puede ser usada de manera estratégica en las tiendas <i>online</i> o <i>e-commerce</i>. Estrategia tradicional de <i>marketing</i> que también es llamada <i>Sampling</i> y que radica en el envío de una muestra de productos de manera gratuita y con un claro objetivo promocional (Florido, 2021).
+        p Es una herramienta muy efectiva de <i>Branding</i> que en la actualidad puede ser usada de manera estratégica en las tiendas <i>online</i> o <i>e-commerce</i>. Estrategia tradicional de <i>marketing</i> que también es llamada <i>Sampling</i> y que radica en el envío de una muestra de productos de manera gratuita y con un claro objetivo promocional (Florido, 2021).
           br
           br
           | La muestra gratis se envía al lugar de ubicación donde se encuentra, bien sea el cliente real y habitual, o el cliente potencial. Cuando se trata del cliente real y habitual, lo que se busca primordialmente es fidelizarlo para que él termine referenciando el producto a sus contactos, es decir, lo que se intenta hacer es incentivar el tradicional “voz a voz”, que en realidad es la mejor promoción que una marca puede tener, porque los clientes confían más en las sugerencias de alguien conocido que en la misma publicidad. Y cuando se trata de un cliente potencial, lo que se busca es que lo conozca para que más adelante termine comprándolo.
@@ -374,7 +374,7 @@
           .tarjeta__contenido
             .row
               .col-lg-7
-                p Pieza publicitaria en la cual se ubican un grupo de productos para exhibirlos al cliente y que admite distribuir o suministrar los productos en forma de auto servicio, pero de con una estética más llamativa. Su función es la de exhibir al cliente un producto o una gama de productos dentro de establecimiento. Se usa mucho para cervezas, gaseosas y productos que necesitan ser refrigerados.
+                p Pieza publicitaria en la cual se ubican un grupo de productos para exhibirlos al cliente y que admite distribuir o suministrar los productos en forma de autoservicio, pero de con una estética más llamativa. Su función es la de exhibir al cliente un producto o una gama de productos dentro de establecimiento. Se usa mucho para cervezas, gaseosas y productos que necesitan ser refrigerados.
               .col-lg-5: img(src='@/assets/curso/161.jpg')
         .globo__tarjeta.bg--4.p-5(x="56.5%" y="52%" titulo="Saltarín" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
@@ -438,11 +438,11 @@
         .globo__tarjeta.bg--4.p-5(x="49.5%" y="65%" titulo="Brochure" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
               img(src='@/assets/curso/bandera.svg' style='width: 27px')
-              h5.mb-0.ms-2 Brochure
+              h5.mb-0.ms-2 <i>Brochure</i>
           .tarjeta__contenido
             .row
               .col-lg-7
-                p Pieza publicitaria que tiene forma de folleto o documento gráfico e informativo que exhibe información relevante sobre la marca que es de valor para los clientes. Desde la teoría, un brochure empresarial incluye materiales publicitarios como afiches, trípticos (plegables de tres cuerpos) y carpetas, entre otros. Estas piezas se pueden crear para uso interno o externo de la marca, es decir, pueden ir dirigidos a los empleados, así como también, puede ser diseñados para informar a los clientes. Esta pieza puede ser diseñada de manera digital para ser compartida con su público a través del correo electrónico, redes sociales e incluso el WhatsApp.
+                p Pieza publicitaria que tiene forma de folleto o documento gráfico e informativo que exhibe información relevante sobre la marca que es de valor para los clientes. Desde la teoría, un <i>brochure</i> empresarial incluye materiales publicitarios como afiches, trípticos (plegables de tres cuerpos) y carpetas, entre otros. Estas piezas se pueden crear para uso interno o externo de la marca, es decir, pueden ir dirigidos a los empleados, así como también, puede ser diseñados para informar a los clientes. Esta pieza puede ser diseñada de manera digital para ser compartida con su público a través del correo electrónico, redes sociales e incluso el WhatsApp.
               .col-lg-5: img(src='@/assets/curso/167.jpg')
         .globo__tarjeta.bg--4.p-5(x="62.5%" y="66%" titulo="Banner o pendón" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
@@ -456,7 +456,7 @@
         .globo__tarjeta.bg--4.p-5(x="75%" y="69%" titulo="Flager" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
               img(src='@/assets/curso/bandera.svg' style='width: 27px')
-              h5.mb-0.ms-2 Flager
+              h5.mb-0.ms-2 <i>Flager</i>
           .tarjeta__contenido
             .row
               .col-lg-7
@@ -474,7 +474,7 @@
         .globo__tarjeta.bg--4.p-5(x="44%" y="80%" titulo="Floor print" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
               img(src='@/assets/curso/bandera.svg' style='width: 27px')
-              h5.mb-0.ms-2 Floor print
+              h5.mb-0.ms-2 <i>Floor print</i>
           .tarjeta__contenido
             .row
               .col-lg-7
@@ -487,7 +487,7 @@
           .tarjeta__contenido
             .row
               .col-lg-7
-                p Son instrumentos de ambientación en la zona comercial que destaca un marca o producto en el punto de venta. Sus funciones son las de aumentar la presencia de la marca o producto, ayudar a las promociones en temporadas especiales (Día del Padre o de la Madre aniversarios, etc.) y utilizar el espacio bajo el techo como medio publicitario
+                p Son instrumentos de ambientación en la zona comercial que destaca una marca o producto en el punto de venta. Sus funciones son las de aumentar la presencia de la marca o producto, ayudar a las promociones en temporadas especiales (Día del Padre o de la Madre aniversarios, etc.) y utilizar el espacio bajo el techo como medio publicitario
               .col-lg-5: img(src='@/assets/curso/172.jpg')
         .globo__tarjeta.bg--4.p-5(x="66.5%" y="83.5%" titulo="Embalajes presentadores" ancho="130" )
           .tarjeta__titulo.d-flex.align-items-center
@@ -523,12 +523,12 @@
       .col-lg-8(data-aos='zoom-in-up')
         .cajon.color-secundario.bg--2-claro.p-4.mb-4
           p Este nuevo contexto, demanda que la empresa desarrolle un agudo proceso de evolución, para adaptarse a este complicado ecosistema competitivo, impactando en la empresa a todo nivel, por ejemplo, en cultura y recursos, tecnología y datos, comunicación y mercadeo, y operaciones y procesos, siempre teniendo al cliente como núcleo central de los esfuerzos.
-    p.mb-5 Toda metodología se acompaña de nuevas herramientas que hacen más fácil la ejecución a lo largo de la cadena de valor del cliente, tales como el Customer Journey (experiencia que tiene el cliente en el proceso de compra de un producto o servicio), Buyer persona (arquetipo del cliente ideal de un producto o servicio), diagnósticos de madurez y nuevas tecnologías que se adapten a las necesidades e integraciones de sistemas que ya existan. Se entiende como diagnóstico del nivel de madurez a la evaluación de la forma de trabajo que la empresa realiza para plantear mejoras en la aplicación práctica de tal manera que lleven a una madurez en actividades de control de calidad en el proceso de desarrollo de software.
+    p.mb-5 Toda metodología se acompaña de nuevas herramientas que hacen más fácil la ejecución a lo largo de la cadena de valor del cliente, tales como el <i>Customer Journey</i> (experiencia que tiene el cliente en el proceso de compra de un producto o servicio), Buyer persona (arquetipo del cliente ideal de un producto o servicio), diagnósticos de madurez y nuevas tecnologías que se adapten a las necesidades e integraciones de sistemas que ya existan. Se entiende como diagnóstico del nivel de madurez a la evaluación de la forma de trabajo que la empresa realiza para plantear mejoras en la aplicación práctica de tal manera que lleven a una madurez en actividades de control de calidad en el proceso de desarrollo de software.
     h3(data-aos='fade-right') De la multicanalidad a la omnicanalidad
     p.mb-5 Hoy en día, las empresas deben intentar conquistar a los clientes que cada vez son más digitales y que adoptaron velozmente las nuevas tecnologías y que, gracias a la difusión de la telefonía celular, se acostumbró a disponer de todo lo que desea, cuando y donde quiera. Es por esto por lo que la ominicanalidad requiere ser flexible y conveniente para que el cliente se pueda comunicar con las marcas a través del canal que elija, cuando lo desee y desde el sitio que quiera. Este paso significa que los canales deben estar interrelacionados y que la información de cada cliente debe fluir sin problema alguno entre las diferentes fases de la relación. Así las cosas, el contacto con el cliente permite que se pueda comenzar el proceso o transacción en un canal, continuarlo en otro y finalizarlo en uno totalmente diferente, todo de manera muy natural, sin grietas en la relación y con la misma identidad de marca.
     .row.mb-5.justify-content-center
       .col-lg-8(data-aos='zoom-in-up'): img(src='@/assets/curso/omni.png')
-    p.mb-5 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del Customer Journey, entregando consistencia entre los canales usados en cada uno de los diferentes “momentos de la verdad” (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario online o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca sea coherente entre ellos. 
+    p.mb-5 Esta gestión integral del relacionamiento con los clientes necesita de soluciones tecnológicas que lo soporten y que, además, sumen valor a lo largo del <i>Customer Journey</i>, entregando consistencia entre los canales usados en cada uno de los diferentes “momentos de la verdad” (puntos relevantes de la relación con el cliente). Desde el momento en que realiza una compra, hasta el contacto con el servicio de atención al cliente, asentar una reclamación, analizar un extracto bancario online o efectuar un cambio de tarifa de una empresa de suministros, siempre se debe reflejar consistencia y se debe actuar como canales interrelacionados. Los clientes pueden permitir distintos niveles de servicio en los distintos canales esperando que la propuesta de valor de marca sea coherente entre ellos. 
     .row.mb-5
       .col-lg-6(data-aos='fade-right')
         p La ejecución de una estrategia omnicanal está íntimamente ligada a la estrategia de experiencia del cliente; no se puede tener una buena estrategia omnicanal si no se incluye la visión del cliente y la coherencia de la marca en su planeación. Es vital tener en cuenta la apropiada y sólida combinación de los diferentes canales de interacción como uno de los puntos más importantes de la vinculación del cliente con la marca.
@@ -643,4 +643,8 @@ export default {
 <style lang="sass" scoped>
 .linea-tiempo-d__item--selected
   background-color: #DED2F3 !important
+.globo__tarjeta
+  @media (max-width: $bp-max-md )
+    .h4
+      font-size: 10px
 </style>

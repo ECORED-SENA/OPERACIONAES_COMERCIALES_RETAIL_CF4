@@ -72,4 +72,17 @@ export default {
 
 .color-black
   color: #000 !important
+.img-infografica-b__content
+  @media (max-width: $bp-min-lg )
+    .img-infografica-b__item__dot
+        .h4
+          font-size: 12px !important
+        width: 80px
+        height: 80px
+  @media (max-width: $bp-min-md )
+    .img-infografica-b__item__dot
+        .h4
+          font-size: 8px !important
+        width: 50px
+        height: 50px
 </style>

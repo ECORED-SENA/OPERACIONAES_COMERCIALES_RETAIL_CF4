@@ -172,7 +172,7 @@
             .row.justify-content-center
               .col-lg-5(data-aos="fade-rigth")
                 h4 Promociones del producto
-                p Se refiere a la técnica llamada sampling, es decir, la distribución de muestras gratuitas de un producto para captar nuevos clientes. Puede existir una mayor entrega de productos por el mismo precio, tener degustaciones e incluso regalos de producto.
+                p Se refiere a la técnica llamada <i>sampling</i>, es decir, la distribución de muestras gratuitas de un producto para captar nuevos clientes. Puede existir una mayor entrega de productos por el mismo precio, tener degustaciones e incluso regalos de producto.
               .col-lg-5(data-aos="fade-left")
                 img(src="@/assets/curso/17.jpg")
             
@@ -346,7 +346,7 @@
     .row.mb-5.justify-content-center
       .col-lg-8(data-aos='zoom-in-up')
         .cajon.color-secundario.bg--2-claro.p-4.mb-4
-          p Un evento debe ser capaz de causar el interés por parte de los medios de comunicación (a los cuales se les debe invitar para que estén presentes y luego puedan hacer un Free Press informando sobre lo ocurrido), así como también debe impactar a los clientes y público presente. Y lo más importante, la idea es lograr la fidelización de los clientes. 
+          p Un evento debe ser capaz de causar el interés por parte de los medios de comunicación (a los cuales se les debe invitar para que estén presentes y luego puedan hacer un <i>Free Press</i> informando sobre lo ocurrido), así como también debe impactar a los clientes y público presente. Y lo más importante, la idea es lograr la fidelización de los clientes. 
     .row.mb-5
       .col-lg-5(data-aos='fade-right'): img(src='@/assets/curso/27.jpg')
       .col-lg-7(data-aos='fade-left')
@@ -387,7 +387,7 @@
     p.mb-5 El objetivo de un evento debe marcar su tipología; en cambio su formato es el medio o canal usado para llevarlo a cabo. 
       br
       br
-      |Entonces, lo eventos de motivación se pueden llevar a cabo a través de <i>networking</i>, viajes de incentivos o convenciones; los eventos de posicionamiento de marca se pueden llevar a cabo a través de acciones callejeras, <i>marketing</i> de guerrilla, un <i>roadshow, happenings</i>, <i>marketing</i> ambiental o evento promocional; los eventos que son institucionales que se pueden llevar a cabo a través de formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas; y también están los eventos relacionales y co participativos que se pueden llevar a cabo a través de desayunos, almuerzos, <i>Focus Group</i>, cocreación, etc. 
+      |Entonces, los eventos de motivación se pueden llevar a cabo a través de <i>networking</i>, viajes de incentivos o convenciones; los eventos de posicionamiento de marca se pueden llevar a cabo a través de acciones callejeras, <i>marketing</i> de guerrilla, un <i>roadshow, happenings</i>, <i>marketing</i> ambiental o evento promocional; los eventos que son institucionales que se pueden llevar a cabo a través de formatos clásicos como presentaciones empresariales, patrocinios de otros eventos o juntas de accionistas; y también están los eventos relacionales y co participativos que se pueden llevar a cabo a través de desayunos, almuerzos, <i>Focus Group</i>, cocreación, etc. 
       br
       br
       |De esta forma, se puede continuar despejando muchas más modalidades de tipos de eventos que se pueden tener en cuenta en las estrategias que sean patrocinadas por una marca.
@@ -405,7 +405,7 @@
       .py-4.py-md-5(titulo="<i>Roadshows</i>" :icono="require('@/assets/curso/29.svg')")
         .row
           .col-md-7.mb-4.mb-md-0
-            h4 Roadshows
+            h4 <i>Roadshows</i>
             p Evento itinerante que va a permitir una mejor visibilidad de marca mediante una acción de <i>marketing</i>, que se fundamenta en el entretenimiento, y que se puede llevar a cabo en diferentes zonas geográficas, todo con el objetivo de promocionar la marca en estos lugares atrayendo de esta forma más clientes.
         
           .col-md-5
@@ -500,14 +500,14 @@
         iframe(width="560" height="315" src="https://www.youtube.com/embed/k5sced_JwsI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
       figcaption Tipos de formatos para eventos
     #t_1_5.titulo-segundo(data-aos="fade-right")
-      h2 1.5 El stand
+      h2 1.5 El <i>stand</i>
     .bg--1-claro.p-5.position-relative.mb-5
       .row
         .col-xl-7
           p La participación por parte de la empresa en eventos y congresos es rentable a la hora de enlazar con otros profesionales, destacarse sobre la competencia e incluso captar clientes nuevos. Y en ese sentido es muy importante conocer qué tipos de estanterías hay en el mercado para elegir la que mejor se acomode a la empresa.
       .img-stand: img(src='@/assets/curso/47.svg' style='width: 478px').m-auto     
     h3(data-aos='fade-right') Tipos de <i>stand</i>
-    p.mb-5 Lo bueno de los <i>stands</i> es que en su diseño pueden ser tan versátiles como la creatividad de los mismos diseñadores, a continuación, se pueden ver los tipos de stand:
+    p.mb-5 Lo bueno de los <i>stands</i> es que en su diseño pueden ser tan versátiles como la creatividad de los mismos diseñadores, a continuación, se pueden ver los tipos de <i>stand</i>:
     Scroll
 
 </template>
