@@ -1,0 +1,290 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="152" height="121.541" viewBox="0 0 152 121.541">
+  <defs>
+    <linearGradient id="linear-gradient" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#e4e4e4"/>
+      <stop offset="0.64" stop-color="#d1d1d1"/>
+      <stop offset="0.645" stop-color="#dcdcdc"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-6" x1="-0.8" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient"/>
+    <linearGradient id="linear-gradient-12" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#eaf6f8"/>
+      <stop offset="1" stop-color="#f1fdff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-13" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#dceff6"/>
+      <stop offset="1" stop-color="#eaf6f8"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-14" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#7db50e"/>
+      <stop offset="0.355" stop-color="#8ac313"/>
+      <stop offset="1" stop-color="#abe720"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-15" y1="0.5" x2="1" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#abe757"/>
+      <stop offset="0.521" stop-color="#c9f23c"/>
+      <stop offset="1" stop-color="#e1fc27"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-16" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-17" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-15"/>
+    <linearGradient id="linear-gradient-18" x1="-0.001" y1="0.5" x2="1.001" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-19" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-12"/>
+    <linearGradient id="linear-gradient-20" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-13"/>
+    <linearGradient id="linear-gradient-21" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-23" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-24" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-15"/>
+    <linearGradient id="linear-gradient-25" x1="0.001" y1="0.5" x2="1.001" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-26" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-12"/>
+    <linearGradient id="linear-gradient-27" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-13"/>
+    <linearGradient id="linear-gradient-28" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-30" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-31" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-15"/>
+    <linearGradient id="linear-gradient-32" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-34" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-13"/>
+    <linearGradient id="linear-gradient-35" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-37" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-38" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-15"/>
+    <linearGradient id="linear-gradient-39" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-41" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-13"/>
+    <linearGradient id="linear-gradient-42" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-44" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-46" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-49" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-51" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-14"/>
+    <linearGradient id="linear-gradient-52" x1="0" y1="0.5" x2="1" y2="0.5" xlink:href="#linear-gradient-15"/>
+    <linearGradient id="linear-gradient-53" x1="-0.001" y1="0.5" x2="0.999" y2="0.5" xlink:href="#linear-gradient-14"/>
+  </defs>
+  <g id="Grupo_81711" data-name="Grupo 81711" transform="translate(-193.667 -17505.27)">
+    <circle id="Elipse_4726" data-name="Elipse 4726" cx="49.227" cy="49.227" r="49.227" transform="translate(247.212 17528.355)" fill="#fff505"/>
+    <g id="_13" data-name="13" transform="translate(193.667 17505.27)">
+      <path id="Trazado_157672" data-name="Trazado 157672" d="M248.534,386.922,172.464,343H187.98l-.776-3.783H165.912L137.96,355.358l88.462,51.074,3.287-1.9h14.525l4.115-5.995h-8.779l12.117-7h20.368l.115-4.622Z" transform="translate(-137.96 -296.064)" fill="#0d3482" opacity="0.4" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <g id="Grupo_81691" data-name="Grupo 81691" transform="translate(18.653 5.998)">
+        <g id="Grupo_81685" data-name="Grupo 81685" transform="translate(108.588 55.595)">
+          <g id="Axonometric_Cube" data-name="Axonometric Cube" transform="translate(0 26.953)">
+            <path id="Cube_face_-_top" data-name="Cube face - top" d="M227.229,377.587l-6.626-3.826,8.766-5.061,6.626,3.826Z" transform="translate(-220.603 -368.701)" fill="url(#linear-gradient)"/>
+            <path id="Trazado_157673" data-name="Trazado 157673" d="M227.573,369.374,220.6,373.4l3.2,1.845h3.652Z" transform="translate(-220.603 -368.337)" fill="#a1a1a1" opacity="0.9"/>
+          </g>
+          <g id="Axonometric_Cube-2" data-name="Axonometric Cube" transform="translate(3.328)">
+            <path id="Cube_face_-_left" data-name="Cube face - left" d="M226.291,384.556l-3.527-2.037v-30.35l3.527,2.036Z" transform="translate(-222.764 -350.669)" fill="#a1a1a1"/>
+            <path id="Cube_face_-_right" data-name="Cube face - right" d="M227.654,382.867l-2.6,1.5v-30.35l2.6-1.5Z" transform="translate(-221.528 -350.481)" fill="#bababa"/>
+            <path id="Cube_face_-_top-2" data-name="Cube face - top" d="M226.291,354.732l-3.527-2.036,2.6-1.5,3.527,2.037Z" transform="translate(-222.764 -351.195)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Grupo_81686" data-name="Grupo 81686" transform="translate(24.512 7.054)">
+          <g id="Axonometric_Cube-3" data-name="Axonometric Cube" transform="translate(0 26.953)">
+            <path id="Cube_face_-_top-3" data-name="Cube face - top" d="M172.622,346.06,166,342.234l8.766-5.061L181.388,341Z" transform="translate(-165.995 -337.173)" fill="url(#linear-gradient)"/>
+            <path id="Trazado_157674" data-name="Trazado 157674" d="M172.966,337.847,166,341.871l3.2,1.845h3.651Z" transform="translate(-165.996 -336.81)" fill="#a1a1a1" opacity="0.9"/>
+          </g>
+          <g id="Axonometric_Cube-4" data-name="Axonometric Cube" transform="translate(3.328)">
+            <path id="Cube_face_-_left-2" data-name="Cube face - left" d="M171.684,353.029l-3.527-2.037v-30.35l3.527,2.037Z" transform="translate(-168.157 -319.141)" fill="#a1a1a1"/>
+            <path id="Cube_face_-_right-2" data-name="Cube face - right" d="M173.047,351.34l-2.6,1.5v-30.35l2.6-1.5Z" transform="translate(-166.921 -318.953)" fill="#bababa"/>
+            <path id="Cube_face_-_top-4" data-name="Cube face - top" d="M171.684,323.2l-3.527-2.037,2.6-1.5,3.527,2.037Z" transform="translate(-168.157 -319.667)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Grupo_81687" data-name="Grupo 81687" transform="translate(3.846)">
+          <g id="Axonometric_Cube-5" data-name="Axonometric Cube" transform="translate(18.846)">
+            <path id="Cube_face_-_left-3" data-name="Cube face - left" d="M259.785,380.812l-94.971-54.832v-10.29l94.971,54.832Z" transform="translate(-164.813 -314.759)" fill="#a1a1a1"/>
+            <path id="Cube_face_-_right-3" data-name="Cube face - right" d="M228.11,360.989l-1.613.932v-10.29l1.613-.932Z" transform="translate(-131.526 -295.867)" fill="#bababa"/>
+            <path id="Cube_face_-_top-5" data-name="Cube face - top" d="M259.785,370.849l-94.971-54.832,1.613-.932L261.4,369.918Z" transform="translate(-164.813 -315.086)" fill="url(#linear-gradient)"/>
+          </g>
+          <g id="Axonometric_Cube-6" data-name="Axonometric Cube" transform="translate(43.184 41.195)">
+            <path id="Cube_face_-_right-4" data-name="Cube face - right" d="M232.827,358.563l-18.061,10.427v-1.635l18.061-10.427Z" transform="translate(-162.195 -333.7)" fill="#bababa"/>
+            <path id="Trazado_157675" data-name="Trazado 157675" d="M242.51,360.021l-61.889-18.179L233.193,375.5l18.061-10.427Z" transform="translate(-180.621 -341.842)" fill="url(#linear-gradient-6)"/>
+          </g>
+          <path id="Trazado_157676" data-name="Trazado 157676" d="M212.36,363.125l3.515,3.66,15.641-9.03h2.609l-4.082-2.357Z" transform="translate(-120.309 -293.332)" fill="#a1a1a1" opacity="0.8"/>
+          <g id="Axonometric_Cube-7" data-name="Axonometric Cube" transform="translate(0.785 5.094)">
+            <path id="Cube_face_-_right-5" data-name="Cube face - right" d="M232.827,355.643,214.767,366.07v-1.635l18.061-10.427Z" transform="translate(-119.795 -299.176)" fill="#66575d"/>
+            <path id="Cube_face_-_top-6" data-name="Cube face - top" d="M248.054,383.654l-94.971-54.832,18.061-10.427,94.971,54.832Z" transform="translate(-153.083 -318.395)" fill="#7c6970"/>
+            <path id="Trazado_157677" data-name="Trazado 157677" d="M156.415,330.745l-.7-.4,18.06-10.428.7.4Zm22.859-7.655-.7-.4-18.062,10.426.7.4Zm4.8,2.77-.7-.4-18.062,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.426.7.4Zm4.8,2.771-.7-.4L179.713,344.2l.7.4Zm4.8,2.77-.7-.4-18.062,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.427.7.4Zm4.8,2.771-.7-.4-18.062,10.427.7.4Zm4.8,2.77-.7-.4L203.71,358.052l.7.4Zm4.8,2.771-.7-.4-18.06,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.427.7.4Zm4.8,2.771-.7-.4-18.062,10.427.7.4Zm4.8,2.77-.7-.4-18.062,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.428.7.4Zm4.8,2.771-.7-.4-18.06,10.426.7.4Zm4.8,2.77-.7-.4-18.062,10.427.7.4Zm4.8,2.771-.7-.4L242.106,380.22l.7.4Z" transform="translate(-151.662 -317.574)" fill="#66575d"/>
+          </g>
+          <g id="Axonometric_Cube-8" data-name="Axonometric Cube" transform="translate(0 10.881)">
+            <path id="Cube_face_-_left-4" data-name="Cube face - left" d="M247.544,387.879l-94.971-54.831v-10.29l94.971,54.832Z" transform="translate(-152.573 -321.827)" fill="#a1a1a1"/>
+            <path id="Cube_face_-_right-6" data-name="Cube face - right" d="M215.87,368.056l-1.614.931V358.7l1.614-.931Z" transform="translate(-119.285 -302.935)" fill="#bababa"/>
+            <path id="Cube_face_-_top-7" data-name="Cube face - top" d="M247.544,377.916l-94.971-54.832,1.614-.932,94.971,54.832Z" transform="translate(-152.573 -322.153)" fill="url(#linear-gradient)"/>
+          </g>
+        </g>
+        <g id="Grupo_81690" data-name="Grupo 81690" transform="translate(0 20.044)">
+          <g id="Grupo_81688" data-name="Grupo 81688" transform="translate(84.076 48.541)">
+            <g id="Axonometric_Cube-9" data-name="Axonometric Cube" transform="translate(0 28.115)">
+              <path id="Cube_face_-_top-8" data-name="Cube face - top" d="M211.308,386.779l-6.626-3.826,8.766-5.061,6.626,3.826Z" transform="translate(-204.682 -377.892)" fill="url(#linear-gradient)"/>
+              <path id="Trazado_157678" data-name="Trazado 157678" d="M213.58,377.968l-.132-.076-8.766,5.061,1.237.714h7.625Z" transform="translate(-204.682 -377.892)" fill="#a1a1a1" opacity="0.9"/>
+            </g>
+            <g id="Axonometric_Cube-10" data-name="Axonometric Cube" transform="translate(5.34)">
+              <path id="Cube_face_-_left-5" data-name="Cube face - left" d="M211.678,392.993l-3.527-2.036v-30.35l3.527,2.036Z" transform="translate(-208.151 -359.106)" fill="#a1a1a1"/>
+              <path id="Cube_face_-_right-7" data-name="Cube face - right" d="M213.041,391.3l-2.6,1.5v-30.35l2.6-1.5Z" transform="translate(-206.914 -358.918)" fill="#bababa"/>
+              <path id="Cube_face_-_top-9" data-name="Cube face - top" d="M211.678,363.169l-3.527-2.037,2.6-1.5,3.527,2.037Z" transform="translate(-208.151 -359.632)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+          <g id="Grupo_81689" data-name="Grupo 81689">
+            <g id="Axonometric_Cube-11" data-name="Axonometric Cube" transform="translate(0 28.115)">
+              <path id="Cube_face_-_top-10" data-name="Cube face - top" d="M156.7,355.252l-6.626-3.826,8.766-5.061,6.626,3.826Z" transform="translate(-150.075 -346.365)" fill="url(#linear-gradient)"/>
+              <path id="Trazado_157679" data-name="Trazado 157679" d="M158.973,346.441l-.132-.076-8.766,5.061,1.237.714h7.625Z" transform="translate(-150.075 -346.365)" fill="#a1a1a1" opacity="0.9"/>
+            </g>
+            <g id="Axonometric_Cube-12" data-name="Axonometric Cube" transform="translate(5.34)">
+              <path id="Cube_face_-_left-6" data-name="Cube face - left" d="M157.071,361.466l-3.528-2.037v-30.35l3.528,2.037Z" transform="translate(-153.544 -327.578)" fill="#a1a1a1"/>
+              <path id="Cube_face_-_right-8" data-name="Cube face - right" d="M158.434,359.777l-2.6,1.5v-30.35l2.6-1.5Z" transform="translate(-152.307 -327.39)" fill="#bababa"/>
+              <path id="Cube_face_-_top-11" data-name="Cube face - top" d="M157.071,331.642l-3.528-2.037,2.6-1.5,3.528,2.037Z" transform="translate(-153.544 -328.104)" fill="url(#linear-gradient)"/>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g id="Grupo_81710" data-name="Grupo 81710" transform="translate(35.659 0)">
+        <g id="Grupo_81694" data-name="Grupo 81694">
+          <g id="Axonometric_Cylinder" data-name="Axonometric Cylinder" transform="translate(0 4.54)">
+            <path id="Cylinder_face" data-name="Cylinder face" d="M167.309,317.711c1.415-.818,1.415-2.142,0-2.959a5.666,5.666,0,0,0-5.127,0c-1.415.818-1.415,2.142,0,2.959A5.666,5.666,0,0,0,167.309,317.711Z" transform="translate(-161.121 -314.139)" fill="url(#linear-gradient-12)"/>
+            <path id="Cylinder_body" data-name="Cylinder body" d="M161.121,315.485v12.259a1.786,1.786,0,0,0,1.061,1.5,5.665,5.665,0,0,0,5.127,0,1.816,1.816,0,0,0,1.062-1.46V315.525a1.816,1.816,0,0,1-1.062,1.46,5.666,5.666,0,0,1-5.127,0A1.786,1.786,0,0,1,161.121,315.485Z" transform="translate(-161.121 -313.412)" opacity="0.8" fill="url(#linear-gradient-13)"/>
+          </g>
+          <g id="Grupo_81693" data-name="Grupo 81693" transform="translate(2.109)">
+            <g id="Axonometric_Cylinder-2" data-name="Axonometric Cylinder" transform="translate(0 3.891)">
+              <path id="Trazado_157680" data-name="Trazado 157680" d="M162.491,314.3v1.671a.764.764,0,0,0,.446.616,2.39,2.39,0,0,0,2.159,0,.751.751,0,0,0,.447-.631v-1.672Z" transform="translate(-162.491 -313.411)" fill="url(#linear-gradient-14)"/>
+              <path id="Trazado_157681" data-name="Trazado 157681" d="M165.1,313.976a2.381,2.381,0,0,0-2.159,0,.657.657,0,0,0,0,1.246,2.381,2.381,0,0,0,2.159,0A.657.657,0,0,0,165.1,313.976Z" transform="translate(-162.491 -313.717)" fill="url(#linear-gradient-15)"/>
+            </g>
+            <g id="Axonometric_Cylinder-3" data-name="Axonometric Cylinder" transform="translate(0.602 2.682)">
+              <path id="Trazado_157682" data-name="Trazado 157682" d="M162.882,313.284v1.493a.464.464,0,0,0,.271.373,1.445,1.445,0,0,0,1.306,0,.459.459,0,0,0,.271-.382v-1.493Z" transform="translate(-162.882 -312.747)" fill="url(#linear-gradient-16)"/>
+              <ellipse id="Elipse_4718" data-name="Elipse 4718" cx="0.924" cy="0.533" rx="0.924" ry="0.533" transform="translate(0)" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-4" data-name="Axonometric Cylinder" transform="translate(1.118 1.079)">
+              <path id="Trazado_157683" data-name="Trazado 157683" d="M163.217,311.9v2.078a.2.2,0,0,0,.119.165.649.649,0,0,0,.579,0,.2.2,0,0,0,.119-.169v-2.079Z" transform="translate(-163.217 -311.891)" fill="url(#linear-gradient-18)"/>
+            </g>
+            <g id="Grupo_81692" data-name="Grupo 81692" transform="translate(0.138)">
+              <path id="Trazado_157684" data-name="Trazado 157684" d="M164.032,311.21a.1.1,0,0,0-.094-.012l-1.333.774a.1.1,0,0,1,.094.012l1.817,1.078,1.333-.774Z" transform="translate(-162.567 -311.19)" fill="#b3ea50"/>
+              <path id="Trazado_157685" data-name="Trazado 157685" d="M162.712,311.713l1.817,1.078,1.592,1.019-.2.223-1.406-1-1.8-1.01C162.537,311.919,162.535,311.613,162.712,311.713Z" transform="translate(-162.58 -310.919)" fill="#7db50e"/>
+              <path id="Trazado_157686" data-name="Trazado 157686" d="M164.785,313.359l1.124-.654-.035.128-1.125.654Z" transform="translate(-161.409 -310.373)" fill="#abe720"/>
+              <path id="Trazado_157687" data-name="Trazado 157687" d="M164.8,313.345l1.047-.6c-.015.058-1.062.657-1.062.657Z" transform="translate(-161.392 -310.351)" fill="#7db50e"/>
+              <path id="Trazado_157688" data-name="Trazado 157688" d="M165.179,311.9l-1.333.775,1.427,1.114,1.124-.654Z" transform="translate(-161.897 -310.805)" fill="#dbfa2c"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81697" data-name="Grupo 81697" transform="translate(15.378 8.878)">
+          <g id="Axonometric_Cylinder-5" data-name="Axonometric Cylinder" transform="translate(0 4.54)">
+            <path id="Cylinder_face-2" data-name="Cylinder face" d="M177.3,323.479c1.415-.818,1.415-2.143,0-2.961a5.665,5.665,0,0,0-5.127,0c-1.415.818-1.415,2.143,0,2.961A5.675,5.675,0,0,0,177.3,323.479Z" transform="translate(-171.109 -319.905)" fill="url(#linear-gradient-19)"/>
+            <path id="Cylinder_body-2" data-name="Cylinder body" d="M171.109,321.252v12.257a1.79,1.79,0,0,0,1.061,1.5,5.665,5.665,0,0,0,5.127,0,1.81,1.81,0,0,0,1.061-1.461V321.291a1.812,1.812,0,0,1-1.061,1.461,5.675,5.675,0,0,1-5.127,0A1.79,1.79,0,0,1,171.109,321.252Z" transform="translate(-171.109 -319.178)" opacity="0.8" fill="url(#linear-gradient-20)"/>
+          </g>
+          <g id="Grupo_81696" data-name="Grupo 81696" transform="translate(2.108)">
+            <g id="Axonometric_Cylinder-6" data-name="Axonometric Cylinder" transform="translate(0 3.891)">
+              <path id="Trazado_157689" data-name="Trazado 157689" d="M172.478,320.067v1.672a.764.764,0,0,0,.448.614,2.381,2.381,0,0,0,2.159,0,.751.751,0,0,0,.446-.631V320.05Z" transform="translate(-172.478 -319.177)" fill="url(#linear-gradient-21)"/>
+              <ellipse id="Elipse_4719" data-name="Elipse 4719" cx="1.527" cy="0.881" rx="1.527" ry="0.881" transform="translate(0.001)" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-7" data-name="Axonometric Cylinder" transform="translate(0.603 2.683)">
+              <path id="Trazado_157690" data-name="Trazado 157690" d="M172.87,319.051v1.492a.461.461,0,0,0,.271.373,1.445,1.445,0,0,0,1.306,0,.455.455,0,0,0,.271-.382v-1.492Z" transform="translate(-172.87 -318.514)" fill="url(#linear-gradient-23)"/>
+              <path id="Trazado_157691" data-name="Trazado 157691" d="M174.447,318.855a1.445,1.445,0,0,0-1.306,0,.4.4,0,0,0,0,.754,1.445,1.445,0,0,0,1.306,0A.4.4,0,0,0,174.447,318.855Z" transform="translate(-172.87 -318.699)" fill="url(#linear-gradient-24)"/>
+            </g>
+            <g id="Axonometric_Cylinder-8" data-name="Axonometric Cylinder" transform="translate(1.118 1.079)">
+              <path id="Trazado_157692" data-name="Trazado 157692" d="M173.2,317.662v2.079a.208.208,0,0,0,.12.165.639.639,0,0,0,.579,0,.2.2,0,0,0,.119-.169v-2.078Z" transform="translate(-173.204 -317.657)" fill="url(#linear-gradient-25)"/>
+            </g>
+            <g id="Grupo_81695" data-name="Grupo 81695" transform="translate(0.139)">
+              <path id="Trazado_157693" data-name="Trazado 157693" d="M174.02,316.976a.1.1,0,0,0-.1-.012l-1.332.776c.022-.014.052-.012.094.011l1.817,1.078,1.333-.774Z" transform="translate(-172.555 -316.956)" fill="#b3ea50"/>
+              <path id="Trazado_157694" data-name="Trazado 157694" d="M172.7,317.479l1.817,1.078,1.59,1.019-.2.223-1.406-1-1.8-1.01C172.525,317.685,172.523,317.379,172.7,317.479Z" transform="translate(-172.568 -316.685)" fill="#7db50e"/>
+              <path id="Trazado_157695" data-name="Trazado 157695" d="M174.773,319.125l1.124-.654-.035.128-1.124.654Z" transform="translate(-171.398 -316.138)" fill="#abe720"/>
+              <path id="Trazado_157696" data-name="Trazado 157696" d="M174.786,319.111l1.047-.6c-.017.057-1.064.657-1.064.657Z" transform="translate(-171.381 -316.116)" fill="#7db50e"/>
+              <path id="Trazado_157697" data-name="Trazado 157697" d="M175.167,317.669l-1.333.775,1.427,1.115,1.124-.654Z" transform="translate(-171.885 -316.571)" fill="#dbfa2c"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81700" data-name="Grupo 81700" transform="translate(30.756 17.757)">
+          <g id="Axonometric_Cylinder-9" data-name="Axonometric Cylinder" transform="translate(0 4.54)">
+            <ellipse id="Cylinder_face-3" data-name="Cylinder face" cx="3.625" cy="2.093" rx="3.625" ry="2.093" fill="url(#linear-gradient-26)"/>
+            <path id="Cylinder_body-3" data-name="Cylinder body" d="M181.1,327.018v12.259a1.786,1.786,0,0,0,1.061,1.5,5.665,5.665,0,0,0,5.127,0,1.81,1.81,0,0,0,1.061-1.46V327.056a1.81,1.81,0,0,1-1.061,1.461,5.665,5.665,0,0,1-5.127,0A1.788,1.788,0,0,1,181.1,327.018Z" transform="translate(-181.096 -324.945)" opacity="0.8" fill="url(#linear-gradient-27)"/>
+          </g>
+          <g id="Grupo_81699" data-name="Grupo 81699" transform="translate(2.108)">
+            <g id="Axonometric_Cylinder-10" data-name="Axonometric Cylinder" transform="translate(0 3.89)">
+              <path id="Trazado_157698" data-name="Trazado 157698" d="M182.466,325.834V327.5a.763.763,0,0,0,.448.616,2.39,2.39,0,0,0,2.159,0,.754.754,0,0,0,.447-.631v-1.672Z" transform="translate(-182.466 -324.944)" fill="url(#linear-gradient-28)"/>
+              <ellipse id="Elipse_4720" data-name="Elipse 4720" cx="1.527" cy="0.881" rx="1.527" ry="0.881" transform="translate(0)" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-11" data-name="Axonometric Cylinder" transform="translate(0.603 2.682)">
+              <path id="Trazado_157699" data-name="Trazado 157699" d="M182.858,324.817v1.493a.462.462,0,0,0,.269.373,1.448,1.448,0,0,0,1.307,0,.462.462,0,0,0,.271-.382v-1.493Z" transform="translate(-182.857 -324.279)" fill="url(#linear-gradient-30)"/>
+              <path id="Trazado_157700" data-name="Trazado 157700" d="M184.435,324.621a1.448,1.448,0,0,0-1.307,0,.4.4,0,0,0,0,.754,1.448,1.448,0,0,0,1.307,0A.4.4,0,0,0,184.435,324.621Z" transform="translate(-182.857 -324.465)" fill="url(#linear-gradient-31)"/>
+            </g>
+            <g id="Axonometric_Cylinder-12" data-name="Axonometric Cylinder" transform="translate(1.118 1.079)">
+              <path id="Trazado_157701" data-name="Trazado 157701" d="M183.192,323.429v2.079a.209.209,0,0,0,.12.165.646.646,0,0,0,.577,0,.2.2,0,0,0,.12-.169v-2.078Z" transform="translate(-183.192 -323.424)" fill="url(#linear-gradient-32)"/>
+            </g>
+            <g id="Grupo_81698" data-name="Grupo 81698" transform="translate(0.139)">
+              <path id="Trazado_157702" data-name="Trazado 157702" d="M184.008,322.743a.1.1,0,0,0-.1-.012l-1.332.774a.1.1,0,0,1,.094.012l1.817,1.078,1.333-.774Z" transform="translate(-182.543 -322.723)" fill="#b3ea50"/>
+              <path id="Trazado_157703" data-name="Trazado 157703" d="M182.688,323.246l1.817,1.078,1.59,1.019-.2.223-1.406-1-1.8-1.01C182.513,323.452,182.511,323.146,182.688,323.246Z" transform="translate(-182.556 -322.452)" fill="#7db50e"/>
+              <path id="Trazado_157704" data-name="Trazado 157704" d="M184.761,324.892l1.125-.654-.035.128-1.124.654Z" transform="translate(-181.386 -321.906)" fill="#abe720"/>
+              <path id="Trazado_157705" data-name="Trazado 157705" d="M184.772,324.878l1.048-.6c-.017.059-1.064.657-1.064.657Z" transform="translate(-181.369 -321.884)" fill="#7db50e"/>
+              <path id="Trazado_157706" data-name="Trazado 157706" d="M185.155,323.436l-1.333.775,1.426,1.115,1.125-.654Z" transform="translate(-181.873 -322.338)" fill="#dbfa2c"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81703" data-name="Grupo 81703" transform="translate(46.133 26.634)">
+          <g id="Axonometric_Cylinder-13" data-name="Axonometric Cylinder" transform="translate(0 4.541)">
+            <ellipse id="Cylinder_face-4" data-name="Cylinder face" cx="3.625" cy="2.093" rx="3.625" ry="2.093" transform="translate(0.001)" fill="url(#linear-gradient-26)"/>
+            <path id="Cylinder_body-4" data-name="Cylinder body" d="M191.084,332.785v12.257a1.8,1.8,0,0,0,1.062,1.5,5.665,5.665,0,0,0,5.127,0,1.81,1.81,0,0,0,1.061-1.461V332.823a1.812,1.812,0,0,1-1.061,1.461,5.675,5.675,0,0,1-5.127,0A1.8,1.8,0,0,1,191.084,332.785Z" transform="translate(-191.084 -330.711)" opacity="0.8" fill="url(#linear-gradient-34)"/>
+          </g>
+          <g id="Grupo_81702" data-name="Grupo 81702" transform="translate(2.109)">
+            <g id="Axonometric_Cylinder-14" data-name="Axonometric Cylinder" transform="translate(0 3.891)">
+              <path id="Trazado_157707" data-name="Trazado 157707" d="M192.454,331.6v1.672a.762.762,0,0,0,.447.614,2.384,2.384,0,0,0,2.16,0,.754.754,0,0,0,.446-.631v-1.672Z" transform="translate(-192.454 -330.71)" fill="url(#linear-gradient-35)"/>
+              <ellipse id="Elipse_4721" data-name="Elipse 4721" cx="1.527" cy="0.881" rx="1.527" ry="0.881" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-15" data-name="Axonometric Cylinder" transform="translate(0.603 2.683)">
+              <path id="Trazado_157708" data-name="Trazado 157708" d="M192.846,330.584v1.492a.461.461,0,0,0,.269.373,1.448,1.448,0,0,0,1.307,0,.453.453,0,0,0,.269-.382v-1.492Z" transform="translate(-192.845 -330.047)" fill="url(#linear-gradient-37)"/>
+              <path id="Trazado_157709" data-name="Trazado 157709" d="M194.423,330.388a1.448,1.448,0,0,0-1.307,0,.4.4,0,0,0,0,.754,1.448,1.448,0,0,0,1.307,0A.4.4,0,0,0,194.423,330.388Z" transform="translate(-192.845 -330.232)" fill="url(#linear-gradient-38)"/>
+            </g>
+            <g id="Axonometric_Cylinder-16" data-name="Axonometric Cylinder" transform="translate(1.118 1.079)">
+              <path id="Trazado_157710" data-name="Trazado 157710" d="M193.18,329.195v2.079a.207.207,0,0,0,.12.165.636.636,0,0,0,.577,0,.2.2,0,0,0,.12-.169V329.19Z" transform="translate(-193.18 -329.19)" fill="url(#linear-gradient-39)"/>
+            </g>
+            <g id="Grupo_81701" data-name="Grupo 81701" transform="translate(0.139)">
+              <path id="Trazado_157711" data-name="Trazado 157711" d="M194,328.509a.1.1,0,0,0-.094-.012l-1.333.776a.093.093,0,0,1,.1.011l1.817,1.078,1.333-.774Z" transform="translate(-192.531 -328.489)" fill="#b3ea50"/>
+              <path id="Trazado_157712" data-name="Trazado 157712" d="M192.676,329.012l1.817,1.078,1.59,1.019-.2.223-1.406-1-1.8-1.01C192.5,329.218,192.5,328.912,192.676,329.012Z" transform="translate(-192.544 -328.218)" fill="#7db50e"/>
+              <path id="Trazado_157713" data-name="Trazado 157713" d="M194.749,330.659l1.124-.654-.035.128-1.125.654Z" transform="translate(-191.373 -327.671)" fill="#abe720"/>
+              <path id="Trazado_157714" data-name="Trazado 157714" d="M194.76,330.644l1.047-.6c-.015.057-1.062.657-1.062.657Z" transform="translate(-191.356 -327.649)" fill="#7db50e"/>
+              <path id="Trazado_157715" data-name="Trazado 157715" d="M195.143,329.2l-1.333.775,1.427,1.114,1.124-.654Z" transform="translate(-191.861 -328.104)" fill="#dbfa2c"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81706" data-name="Grupo 81706" transform="translate(61.511 35.514)">
+          <g id="Axonometric_Cylinder-17" data-name="Axonometric Cylinder" transform="translate(0 4.54)">
+            <ellipse id="Cylinder_face-5" data-name="Cylinder face" cx="3.625" cy="2.093" rx="3.625" ry="2.093" transform="translate(0)" fill="url(#linear-gradient-26)"/>
+            <path id="Cylinder_body-5" data-name="Cylinder body" d="M201.072,338.551V350.81a1.791,1.791,0,0,0,1.062,1.5,5.662,5.662,0,0,0,5.126,0,1.813,1.813,0,0,0,1.062-1.46V338.589a1.812,1.812,0,0,1-1.062,1.461,5.662,5.662,0,0,1-5.126,0A1.8,1.8,0,0,1,201.072,338.551Z" transform="translate(-201.072 -336.478)" opacity="0.8" fill="url(#linear-gradient-41)"/>
+          </g>
+          <g id="Grupo_81705" data-name="Grupo 81705" transform="translate(2.109)">
+            <g id="Axonometric_Cylinder-18" data-name="Axonometric Cylinder" transform="translate(0 3.89)">
+              <path id="Trazado_157716" data-name="Trazado 157716" d="M202.442,337.365v1.672a.764.764,0,0,0,.446.616,2.391,2.391,0,0,0,2.159,0,.758.758,0,0,0,.448-.631V337.35Z" transform="translate(-202.442 -336.477)" fill="url(#linear-gradient-42)"/>
+              <ellipse id="Elipse_4722" data-name="Elipse 4722" cx="1.527" cy="0.881" rx="1.527" ry="0.881" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-19" data-name="Axonometric Cylinder" transform="translate(0.602 2.682)">
+              <path id="Trazado_157717" data-name="Trazado 157717" d="M202.833,336.35v1.493a.466.466,0,0,0,.271.373,1.445,1.445,0,0,0,1.306,0,.456.456,0,0,0,.271-.382v-1.493Z" transform="translate(-202.833 -335.813)" fill="url(#linear-gradient-44)"/>
+              <ellipse id="Elipse_4723" data-name="Elipse 4723" cx="0.924" cy="0.533" rx="0.924" ry="0.533" transform="translate(0.001)" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-20" data-name="Axonometric Cylinder" transform="translate(1.118 1.079)">
+              <path id="Trazado_157718" data-name="Trazado 157718" d="M203.168,334.962v2.079a.2.2,0,0,0,.12.163.636.636,0,0,0,.577,0,.2.2,0,0,0,.12-.168v-2.079Z" transform="translate(-203.168 -334.957)" fill="url(#linear-gradient-46)"/>
+            </g>
+            <g id="Grupo_81704" data-name="Grupo 81704" transform="translate(0.138)">
+              <path id="Trazado_157719" data-name="Trazado 157719" d="M203.983,334.276a.1.1,0,0,0-.094-.012l-1.333.774a.1.1,0,0,1,.094.012l1.818,1.078,1.332-.774Z" transform="translate(-202.518 -334.256)" fill="#b3ea50"/>
+              <path id="Trazado_157720" data-name="Trazado 157720" d="M202.663,334.779l1.818,1.078,1.59,1.019-.2.223-1.406-1-1.8-1.012C202.488,334.984,202.486,334.679,202.663,334.779Z" transform="translate(-202.531 -333.984)" fill="#7db50e"/>
+              <path id="Trazado_157721" data-name="Trazado 157721" d="M204.737,336.425l1.124-.654-.035.128-1.125.654Z" transform="translate(-201.36 -333.439)" fill="#abe720"/>
+              <path id="Trazado_157722" data-name="Trazado 157722" d="M204.748,336.411l1.047-.6c-.015.058-1.062.657-1.062.657Z" transform="translate(-201.343 -333.417)" fill="#7db50e"/>
+              <path id="Trazado_157723" data-name="Trazado 157723" d="M205.131,334.969l-1.333.775,1.427,1.114,1.124-.654Z" transform="translate(-201.848 -333.871)" fill="#dbfa2c"/>
+            </g>
+          </g>
+        </g>
+        <g id="Grupo_81709" data-name="Grupo 81709" transform="translate(76.889 44.391)">
+          <g id="Axonometric_Cylinder-21" data-name="Axonometric Cylinder" transform="translate(0 4.54)">
+            <path id="Cylinder_face-6" data-name="Cylinder face" d="M217.248,346.545c1.417-.818,1.417-2.143,0-2.961a5.663,5.663,0,0,0-5.125,0c-1.417.818-1.417,2.143,0,2.961A5.672,5.672,0,0,0,217.248,346.545Z" transform="translate(-211.06 -342.971)" fill="url(#linear-gradient-19)"/>
+            <path id="Cylinder_body-6" data-name="Cylinder body" d="M211.06,344.318v12.257a1.792,1.792,0,0,0,1.062,1.5,5.662,5.662,0,0,0,5.125,0,1.818,1.818,0,0,0,1.062-1.461V344.356a1.818,1.818,0,0,1-1.062,1.461,5.672,5.672,0,0,1-5.125,0A1.792,1.792,0,0,1,211.06,344.318Z" transform="translate(-211.06 -342.244)" opacity="0.8" fill="url(#linear-gradient-13)"/>
+          </g>
+          <g id="Grupo_81708" data-name="Grupo 81708" transform="translate(2.109)">
+            <g id="Axonometric_Cylinder-22" data-name="Axonometric Cylinder" transform="translate(0 3.891)">
+              <path id="Trazado_157724" data-name="Trazado 157724" d="M212.43,343.133v1.672a.762.762,0,0,0,.447.614,2.381,2.381,0,0,0,2.159,0,.756.756,0,0,0,.448-.631v-1.672Z" transform="translate(-212.429 -342.243)" fill="url(#linear-gradient-49)"/>
+              <ellipse id="Elipse_4724" data-name="Elipse 4724" cx="1.527" cy="0.881" rx="1.527" ry="0.881" fill="url(#linear-gradient-17)"/>
+            </g>
+            <g id="Axonometric_Cylinder-23" data-name="Axonometric Cylinder" transform="translate(0.603 2.682)">
+              <path id="Trazado_157725" data-name="Trazado 157725" d="M212.821,342.118v1.492a.464.464,0,0,0,.271.373,1.445,1.445,0,0,0,1.306,0,.455.455,0,0,0,.271-.382v-1.493Z" transform="translate(-212.821 -341.579)" fill="url(#linear-gradient-51)"/>
+              <ellipse id="Elipse_4725" data-name="Elipse 4725" cx="0.924" cy="0.533" rx="0.924" ry="0.533" transform="translate(0)" fill="url(#linear-gradient-52)"/>
+            </g>
+            <g id="Axonometric_Cylinder-24" data-name="Axonometric Cylinder" transform="translate(1.118 1.079)">
+              <path id="Trazado_157726" data-name="Trazado 157726" d="M213.156,340.728v2.078a.2.2,0,0,0,.119.165.639.639,0,0,0,.579,0,.205.205,0,0,0,.12-.169v-2.079Z" transform="translate(-213.156 -340.723)" fill="url(#linear-gradient-53)"/>
+            </g>
+            <g id="Grupo_81707" data-name="Grupo 81707" transform="translate(0.138)">
+              <path id="Trazado_157727" data-name="Trazado 157727" d="M213.971,340.042a.1.1,0,0,0-.094-.012l-1.333.774a.1.1,0,0,1,.094.012l1.817,1.078,1.333-.774Z" transform="translate(-212.506 -340.022)" fill="#b3ea50"/>
+              <path id="Trazado_157728" data-name="Trazado 157728" d="M212.651,340.545l1.817,1.078,1.592,1.019-.2.223-1.406-1-1.8-1.01C212.476,340.751,212.474,340.445,212.651,340.545Z" transform="translate(-212.519 -339.751)" fill="#7db50e"/>
+              <path id="Trazado_157729" data-name="Trazado 157729" d="M214.724,342.191l1.124-.654-.035.128-1.124.654Z" transform="translate(-211.348 -339.204)" fill="#abe720"/>
+              <path id="Trazado_157730" data-name="Trazado 157730" d="M214.736,342.177l1.047-.6c-.015.057-1.062.657-1.062.657Z" transform="translate(-211.331 -339.182)" fill="#7db50e"/>
+              <path id="Trazado_157731" data-name="Trazado 157731" d="M215.118,340.735l-1.333.775,1.427,1.114,1.124-.654Z" transform="translate(-211.836 -339.637)" fill="#dbfa2c"/>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
